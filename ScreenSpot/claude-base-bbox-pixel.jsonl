@@ -1,0 +1,501 @@
+{"filename": "mobile_79ef2997-19a2-4520-8647-b1ad1fc00ce8.png", "instruction": "search for the privacy report of a website", "text": ["{\n  \"bounding_box\": [30, 177, 309, 225]\n}"]}
+{"filename": "mobile_e8581791-9dca-4a18-a9c3-0ddd782aaf96.png", "instruction": "open documents", "text": ["{\n  \"bounding_box\": [284, 335, 446, 531]\n}"]}
+{"filename": "mobile_bdefb309-2aeb-4b5f-920b-1e9952f1ddfe.png", "instruction": "back to previous page", "text": ["{\n  \"bounding_box\": [29, 127, 56, 147]\n}"]}
+{"filename": "mobile_7532d8a8-0ee9-4aa6-9780-de5b481ef137.png", "instruction": "add profile picture", "text": ["{\n  \"bounding_box\": [296, 562, 438, 596]\n}"]}
+{"filename": "mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png", "instruction": "personal hotspot", "text": ["{\n  \"bounding_box\": [456, 935, 656, 1109]\n}"]}
+{"filename": "mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png", "instruction": "airdrop setting", "text": ["{\n  \"bounding_box\": [165, 935, 296, 1093]\n}"]}
+{"filename": "mobile_2b707da9-bf86-410d-b886-cba08b6efb35.png", "instruction": "airplane mode", "text": ["{\n  \"bounding_box\": [164, 468, 347, 636]\n}"]}
+{"filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png", "instruction": "shuffle the music list", "text": ["{\n  \"bounding_box\": [475, 872, 628, 894]\n}"]}
+{"filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png", "instruction": "more information", "text": ["{\n  \"bounding_box\": [649, 1006, 686, 1020]\n}"]}
+{"filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png", "instruction": "back", "text": ["{\n  \"bounding_box\": [41, 127, 67, 153]\n}"]}
+{"filename": "mobile_8da8fbf4-c2b0-495f-88d3-9eb682c15ce7.png", "instruction": "more information about classical christmas", "text": ["{\n  \"bounding_box\": [650, 1007, 686, 1021]\n}"]}
+{"filename": "mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png", "instruction": "check sleeping time", "text": ["{\n  \"bounding_box\": [58, 217, 286, 341]\n}"]}
+{"filename": "mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png", "instruction": "check kcals usage", "text": ["{\n  \"bounding_box\": [352, 541, 679, 877]\n}"]}
+{"filename": "mobile_e277f0fc-fe73-4304-9d8e-2bc4613e1986.png", "instruction": "switch to workout page", "text": ["{\n  \"bounding_box\": [217, 1452, 316, 1821]\n}"]}
+{"filename": "mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png", "instruction": "agree", "text": ["{\n  \"bounding_box\": [494, 1381, 627, 1456]\n}"]}
+{"filename": "mobile_f515dd3d-41eb-4fe9-b74a-ac66e60a8b75.png", "instruction": "cancel", "text": ["{\n  \"bounding_box\": [209, 1415, 271, 1441]\n}"]}
+{"filename": "mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png", "instruction": "power on", "text": ["{\n  \"bounding_box\": [175, 780, 192, 797]\n}"]}
+{"filename": "mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png", "instruction": "change mode", "text": ["{\n  \"bounding_box\": [352, 695, 704, 888]\n}"]}
+{"filename": "mobile_63949247-1001-4d4e-9f49-81c85f7308e8.png", "instruction": "raise air conditioner temperature", "text": ["{\n  \"bounding_box\": [588, 1213, 608, 1233]\n}"]}
+{"filename": "mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png", "instruction": "check battery usage", "text": ["{\n  \"bounding_box\": [51, 653, 654, 707]\n}"]}
+{"filename": "mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png", "instruction": "set fingerprints, face data and screen lock options", "text": ["{\n  \"bounding_box\": [131, 265, 590, 366]\n}"]}
+{"filename": "mobile_6bbaccfd-a0c4-49d3-a68d-050210ff5a6e.png", "instruction": "set mi ai voice assistant", "text": ["{\n  \"bounding_box\": [51, 1047, 652, 1137]\n}"]}
+{"filename": "mobile_182c66dd-3836-4bce-909f-166abd570fde.png", "instruction": "open user profile", "text": ["{\n  \"bounding_box\": [47, 428, 657, 558]\n}"]}
+{"filename": "mobile_182c66dd-3836-4bce-909f-166abd570fde.png", "instruction": "search setttings", "text": ["{\n  \"bounding_box\": [92, 327, 636, 358]\n}"]}
+{"filename": "mobile_13b715bb-dd6e-462c-80f3-3ea629b114c0.png", "instruction": "input to change the meeting's title", "text": ["{\n  \"bounding_box\": [28, 204, 417, 227]\n}"]}
+{"filename": "mobile_13b715bb-dd6e-462c-80f3-3ea629b114c0.png", "instruction": "return", "text": ["I can see the screenshot of a meeting scheduling interface. Based on the instruction to find the UI element labeled \"return\", I need to identify the element that best matches this description.\n\nLooking at the interface, there's a back button in the top-left corner (the \"<\" icon), but there's no explicit \"return\" button. The closest functional equivalent would be the \"Done\" button in the top-right corner, which would typically return the user to the previous screen.\n\n{\n  \"bounding_box\": [609, 78, 679, 116]\n}"]}
+{"filename": "mobile_13b715bb-dd6e-462c-80f3-3ea629b114c0.png", "instruction": "turn off to add meeting into calendar", "text": ["{\n  \"bounding_box\": [629, 865, 669, 879]\n}"]}
+{"filename": "mobile_53e09f46-876e-4552-9037-ae4ef338dad3.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [100, 111, 116, 127]\n}"]}
+{"filename": "mobile_53e09f46-876e-4552-9037-ae4ef338dad3.png", "instruction": "show all news&magzaines apps", "text": ["{\n  \"bounding_box\": [43, 302, 366, 330]\n}"]}
+{"filename": "mobile_53e09f46-876e-4552-9037-ae4ef338dad3.png", "instruction": "show all games", "text": ["{\n  \"bounding_box\": [117, 1437, 168, 1824]\n}"]}
+{"filename": "mobile_07c1d6c0-7f94-457e-94b4-1e855dc1aded.png", "instruction": "play video", "text": ["{\n  \"bounding_box\": [305, 337, 368, 400]\n}"]}
+{"filename": "mobile_07c1d6c0-7f94-457e-94b4-1e855dc1aded.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [662, 109, 680, 127]\n}"]}
+{"filename": "mobile_07c1d6c0-7f94-457e-94b4-1e855dc1aded.png", "instruction": "back", "text": ["{\n  \"bounding_box\": [30, 110, 80, 160]\n}"]}
+{"filename": "mobile_97752e81-d94b-49a1-8cb2-709395d63372.png", "instruction": "enter meeting id", "text": ["{\n  \"bounding_box\": [342, 212, 470, 214]\n}"]}
+{"filename": "mobile_97752e81-d94b-49a1-8cb2-709395d63372.png", "instruction": "cancel", "text": ["{\n  \"bounding_box\": [29, 100, 120, 125]\n}"]}
+{"filename": "mobile_97752e81-d94b-49a1-8cb2-709395d63372.png", "instruction": "close mic when enter the online meeting room", "text": ["{\n  \"bounding_box\": [639, 433, 677, 448]\n}"]}
+{"filename": "mobile_6049f1b2-a8b8-4e39-bbac-ddd647cd3248.png", "instruction": "display noticfications", "text": ["{\n  \"bounding_box\": [642, 102, 663, 139]\n}"]}
+{"filename": "mobile_6049f1b2-a8b8-4e39-bbac-ddd647cd3248.png", "instruction": "arrange a meeting in schedula", "text": ["{\n  \"bounding_box\": [425, 217, 475, 358]\n}"]}
+{"filename": "mobile_6049f1b2-a8b8-4e39-bbac-ddd647cd3248.png", "instruction": "join a meeting", "text": ["{\n  \"bounding_box\": [44, 219, 144, 342]\n}"]}
+{"filename": "mobile_b92938f8-6822-49e4-9612-67debab64e9d.png", "instruction": "settings", "text": ["{\n  \"bounding_box\": [667, 84, 697, 115]\n}"]}
+{"filename": "mobile_b92938f8-6822-49e4-9612-67debab64e9d.png", "instruction": "more functions", "text": ["{\n  \"bounding_box\": [667, 95, 685, 113]\n}"]}
+{"filename": "mobile_b92938f8-6822-49e4-9612-67debab64e9d.png", "instruction": "display phone files", "text": ["{\n  \"bounding_box\": [352, 183, 367, 198]\n}"]}
+{"filename": "mobile_aacb7bd4-e54a-4798-876a-eef079e17b2d.png", "instruction": "1", "text": ["Based on the instruction \"1\", I'm looking for UI elements with the number \"1\" in the screenshot. The closest match I can find is part of the IP addresses or numerical values shown.\n\n{\n  \"bounding_box\": [86, 1442, 122, 1471]\n}"]}
+{"filename": "mobile_aacb7bd4-e54a-4798-876a-eef079e17b2d.png", "instruction": "display ip address", "text": ["{\n  \"bounding_box\": [453, 685, 583, 722]\n}"]}
+{"filename": "mobile_aacb7bd4-e54a-4798-876a-eef079e17b2d.png", "instruction": "turn off rule-based mode", "text": ["Looking at the screenshot, I can see that the \"Rule-based\" mode is selected in the Outbound Mode section. The radio button for Rule-based is currently active (filled in blue circle).\n\n{\n  \"bounding_box\": [85, 803, 273, 823]\n}"]}
+{"filename": "mobile_674f6746-05c0-4e7d-93de-adf054f0eaf6.png", "instruction": "post a new article", "text": ["{\n  \"bounding_box\": [651, 92, 674, 128]\n}"]}
+{"filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png", "instruction": "flight mode", "text": ["{\n  \"bounding_box\": [138, 327, 183, 372]\n}"]}
+{"filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png", "instruction": "calculator", "text": ["{\n  \"bounding_box\": [442, 944, 510, 1012]\n}"]}
+{"filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png", "instruction": "screen recorder", "text": ["{\n  \"bounding_box\": [442, 1103, 507, 1169]\n}"]}
+{"filename": "mobile_1a514eae-4ee0-4780-a059-c47715828e3b.png", "instruction": "focus mode", "text": ["{\n  \"bounding_box\": [56, 724, 349, 851]\n}"]}
+{"filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png", "instruction": "photos app", "text": ["{\n  \"bounding_box\": [445, 153, 501, 292]\n}"]}
+{"filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png", "instruction": "clock", "text": ["{\n  \"bounding_box\": [278, 330, 360, 470]\n}"]}
+{"filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png", "instruction": "app store", "text": ["{\n  \"bounding_box\": [278, 695, 333, 823]\n}"]}
+{"filename": "mobile_93dec21b-d612-41df-9f76-933ceadaba66.png", "instruction": "iphone settings", "text": ["Looking at the screenshot, I can see the Settings app icon in the bottom-right area of the fourth row of apps. Here's the bounding box coordinates:\n\n{\n  \"bounding_box\": [612, 878, 667, 1005]\n}"]}
+{"filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png", "instruction": "take a photo", "text": ["Looking at the screenshot, I can see that there are multiple elements related to taking a photo. Based on the instruction \"take a photo\", the most relevant UI element would be the large circular shutter button at the bottom center of the screen.\n\n{\n  \"bounding_box\": [297, 1292, 436, 1414]\n}"]}
+{"filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png", "instruction": "switch to 0.5x", "text": ["{\n  \"bounding_box\": [325, 1127, 371, 1173]\n}"]}
+{"filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png", "instruction": "invert the lens", "text": ["After analyzing the screenshot, I can see that the instruction is to \"invert the lens\", which would correspond to the button in the top-left corner of the screen with what appears to be a lens icon with a slash through it.\n\n{\n  \"bounding_box\": [45, 100, 67, 122]\n}"]}
+{"filename": "mobile_907cb7d2-9953-476e-b589-5526587c3913.png", "instruction": "switch to portrait mode", "text": ["After analyzing the screenshot, I can see that the \"PORTRAIT\" mode option is located in the camera interface at the bottom of the screen.\n\n{\n  \"bounding_box\": [514, 1236, 575, 1255]\n}"]}
+{"filename": "mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png", "instruction": "tap to receive file as a new phone", "text": ["{\n  \"bounding_box\": [192, 1182, 329, 1482]\n}"]}
+{"filename": "mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png", "instruction": "send files as a old phone", "text": ["{\n  \"bounding_box\": [507, 1175, 647, 1487]\n}"]}
+{"filename": "mobile_c28ad441-0524-4e7b-ab97-4005072b53a3.png", "instruction": "open settings", "text": ["{\n  \"bounding_box\": [638, 100, 662, 124]\n}"]}
+{"filename": "mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png", "instruction": "agree", "text": ["{\n  \"bounding_box\": [364, 1400, 654, 1485]\n}"]}
+{"filename": "mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png", "instruction": "disagree the agreement", "text": ["{\n  \"bounding_box\": [123, 1407, 341, 1490]\n}"]}
+{"filename": "mobile_ef01fd08-a7fd-42a3-b1aa-fe22b3f79730.png", "instruction": "display user agreement", "text": ["{\n  \"bounding_box\": [473, 1284, 579, 1303]\n}"]}
+{"filename": "mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png", "instruction": "view help", "text": ["{\n  \"bounding_box\": [107, 1070, 231, 1087]\n}"]}
+{"filename": "mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png", "instruction": "open phone's screen", "text": ["{\n  \"bounding_box\": [423, 447, 627, 529]\n}"]}
+{"filename": "mobile_aae20de3-7aab-4bcc-8d83-f187fe3a2e76.png", "instruction": "close current page", "text": ["{\n  \"bounding_box\": [67, 110, 83, 127]\n}"]}
+{"filename": "mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png", "instruction": "sort by size", "text": ["{\n  \"bounding_box\": [403, 387, 472, 413]\n}"]}
+{"filename": "mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png", "instruction": "sort by file's types", "text": ["{\n  \"bounding_box\": [403, 581, 482, 610]\n}"]}
+{"filename": "mobile_7bbecc1d-4220-4287-8ec7-14f9eec203e2.png", "instruction": "download", "text": ["{\n  \"bounding_box\": [543, 112, 558, 128]\n}"]}
+{"filename": "mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png", "instruction": "display recent opened files", "text": ["{\n  \"bounding_box\": [51, 202, 221, 242]\n}"]}
+{"filename": "mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png", "instruction": "open dcim folder", "text": ["{\n  \"bounding_box\": [585, 1307, 625, 1327]\n}"]}
+{"filename": "mobile_dc3bbcd3-d7bb-4ce2-be50-eb6f564d2ddc.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [451, 104, 468, 132]\n}"]}
+{"filename": "mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png", "instruction": "display all videos", "text": ["{\n  \"bounding_box\": [438, 383, 517, 520]\n}"]}
+{"filename": "mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png", "instruction": "display all photos ", "text": ["{\n  \"bounding_box\": [268, 498, 317, 517]\n}"]}
+{"filename": "mobile_74f38270-ccc5-423e-813e-b7f1ac6ff665.png", "instruction": "show all documents", "text": ["{\n  \"bounding_box\": [65, 498, 133, 520]\n}"]}
+{"filename": "mobile_275415f1-ade1-4210-9e92-8f998a671c96.png", "instruction": "show more file types", "text": ["{\n  \"bounding_box\": [585, 325, 651, 342]\n}"]}
+{"filename": "mobile_71a65a77-a4ba-4853-9530-5e781cbbaa67.png", "instruction": "continue", "text": ["{\n  \"bounding_box\": [54, 1398, 653, 1457]\n}"]}
+{"filename": "mobile_71a65a77-a4ba-4853-9530-5e781cbbaa67.png", "instruction": "show policy agreement", "text": ["{\n  \"bounding_box\": [188, 1124, 521, 1164]\n}"]}
+{"filename": "mobile_48d10f78-a92e-43fb-ace1-c1a4f5bccb90.png", "instruction": "deny", "text": ["{\n  \"bounding_box\": [74, 1158, 632, 1237]\n}"]}
+{"filename": "mobile_48d10f78-a92e-43fb-ace1-c1a4f5bccb90.png", "instruction": "allow all require while use this app", "text": ["{\n  \"bounding_box\": [73, 1378, 635, 1451]\n}"]}
+{"filename": "mobile_48d10f78-a92e-43fb-ace1-c1a4f5bccb90.png", "instruction": "approximent location", "text": ["{\n  \"bounding_box\": [74, 834, 339, 1109]\n}"]}
+{"filename": "mobile_d9e451e3-6238-496f-8cc4-37e019e1a9c3.png", "instruction": "done", "text": ["{\n  \"bounding_box\": [190, 1288, 517, 1365]\n}"]}
+{"filename": "mobile_b4e274d0-a7b6-4cad-97ee-5581ef41c6a0.png", "instruction": "open my own twitch group", "text": ["{\n  \"bounding_box\": [21, 432, 686, 546]\n}"]}
+{"filename": "mobile_1931c317-b01b-46c9-8c28-a5b81ad5495b.png", "instruction": "copy text", "text": ["{\n  \"bounding_box\": [129, 889, 274, 907]\n}"]}
+{"filename": "mobile_1931c317-b01b-46c9-8c28-a5b81ad5495b.png", "instruction": "add a emoji", "text": ["{\n  \"bounding_box\": [78, 1097, 115, 1135]\n}"]}
+{"filename": "mobile_1931c317-b01b-46c9-8c28-a5b81ad5495b.png", "instruction": "send a smill heart emoji", "text": ["{\n  \"bounding_box\": [641, 749, 676, 785]\n}"]}
+{"filename": "mobile_df977636-55ed-4c99-8ff1-569ef8e6c78a.png", "instruction": "scan qr code", "text": ["{\n  \"bounding_box\": [88, 176, 116, 216]\n}"]}
+{"filename": "mobile_df977636-55ed-4c99-8ff1-569ef8e6c78a.png", "instruction": "display more functional icon", "text": ["{\n  \"bounding_box\": [625, 596, 654, 661]\n}"]}
+{"filename": "mobile_df977636-55ed-4c99-8ff1-569ef8e6c78a.png", "instruction": "transfer money", "text": ["{\n  \"bounding_box\": [597, 331, 683, 416]\n}"]}
+{"filename": "mobile_c988d05c-1c6d-4b0d-aacb-eafb866320fb.png", "instruction": "settings", "text": ["{\n  \"bounding_box\": [662, 102, 682, 122]\n}"]}
+{"filename": "mobile_c988d05c-1c6d-4b0d-aacb-eafb866320fb.png", "instruction": "post a new twit", "text": ["{\n  \"bounding_box\": [626, 1335, 676, 1385]\n}"]}
+{"filename": "mobile_c988d05c-1c6d-4b0d-aacb-eafb866320fb.png", "instruction": "show all message ", "text": ["{\n  \"bounding_box\": [112, 731, 648, 794]\n}"]}
+{"filename": "mobile_8f5ecfa3-33b9-4306-bc67-87aacadfc45b.png", "instruction": "back", "text": ["{\n  \"bounding_box\": [28, 102, 72, 132]\n}"]}
+{"filename": "mobile_8f5ecfa3-33b9-4306-bc67-87aacadfc45b.png", "instruction": "auto play video and gif in wifi or use traffic", "text": ["{\n  \"bounding_box\": [29, 356, 553, 376]\n}"]}
+{"filename": "mobile_8f5ecfa3-33b9-4306-bc67-87aacadfc45b.png", "instruction": "change language translated into", "text": ["{\n  \"bounding_box\": [29, 956, 225, 978]\n}"]}
+{"filename": "mobile_a84e2cd2-1d45-42c1-8e2e-5c06fa3419af.png", "instruction": "share to weibo", "text": ["{\n  \"bounding_box\": [88, 1223, 143, 1315]\n}"]}
+{"filename": "mobile_a84e2cd2-1d45-42c1-8e2e-5c06fa3419af.png", "instruction": "share to twitter", "text": ["{\n  \"bounding_box\": [411, 1218, 497, 1310]\n}"]}
+{"filename": "mobile_a84e2cd2-1d45-42c1-8e2e-5c06fa3419af.png", "instruction": "copy link to share", "text": ["{\n  \"bounding_box\": [399, 1369, 518, 1463]\n}"]}
+{"filename": "mobile_99daacb4-408c-4cdf-8f14-2c01675fda1f.png", "instruction": "set to biggest font size", "text": ["{\n  \"bounding_box\": [523, 938, 534, 938]\n}"]}
+{"filename": "mobile_6ad7dd8f-82d3-4e73-b437-667dc1b24574.png", "instruction": "switch to a new scence", "text": ["{\n  \"bounding_box\": [493, 1476, 524, 1524]\n}"]}
+{"filename": "mobile_6ad7dd8f-82d3-4e73-b437-667dc1b24574.png", "instruction": "open landlanp", "text": ["After analyzing the screenshot, I don't see any UI element labeled \"landlanp\". There are several devices shown (WiFi routers, a lamp, etc.), but none with that specific name. \n\nLooking at the navigation options at the bottom of the screen, the closest match might be the \"Vmall\" button in the bottom navigation bar.\n\n{\n  \"bounding_box\": [212, 1771, 232, 1813]\n}"]}
+{"filename": "mobile_6bfcd1af-894e-4c63-b1c1-c5fabf589029.png", "instruction": "view social apps", "text": ["Based on the screenshot, I can see that there is a section labeled \"Social\" that contains social media apps. This section is in the middle-left part of the screen.\n\n{\n  \"bounding_box\": [163, 945, 228, 959]\n}"]}
+{"filename": "mobile_6bfcd1af-894e-4c63-b1c1-c5fabf589029.png", "instruction": "search in app library", "text": ["{\n  \"bounding_box\": [48, 123, 677, 206]\n}"]}
+{"filename": "mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png", "instruction": "back to previous page", "text": ["{\n  \"bounding_box\": [50, 104, 96, 127]\n}"]}
+{"filename": "mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png", "instruction": "turn off wlan", "text": ["{\n  \"bounding_box\": [560, 326, 655, 372]\n}"]}
+{"filename": "mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png", "instruction": "scan qr code", "text": ["After analyzing the screenshot, I don't see any element labeled \"scan QR code\" or any QR code scanning functionality visible on this WLAN settings screen. The closest interactive element might be the fullscreen button in the top right corner, but this isn't specifically for QR code scanning.\n\n{\n  \"bounding_box\": [640, 100, 670, 130]\n}"]}
+{"filename": "mobile_db3c83d0-b179-4661-88d4-baf938bcf477.png", "instruction": "return previous page", "text": ["{\n  \"bounding_box\": [50, 100, 100, 130]\n}"]}
+{"filename": "mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png", "instruction": "turn on earpiece mode", "text": ["{\n  \"bounding_box\": [606, 390, 654, 411]\n}"]}
+{"filename": "mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png", "instruction": "turn off mute ringer", "text": ["{\n  \"bounding_box\": [605, 733, 653, 785]\n}"]}
+{"filename": "mobile_06d5a5b9-8dda-439a-84a5-7af28ab2dab8.png", "instruction": "change recording format", "text": ["{\n  \"bounding_box\": [50, 1001, 373, 1028]\n}"]}
+{"filename": "mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png", "instruction": "open a photo", "text": ["{\n  \"bounding_box\": [352, 770, 358, 776]\n}"]}
+{"filename": "mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png", "instruction": "open photo", "text": ["{\n  \"bounding_box\": [86, 952, 634, 974]\n}"]}
+{"filename": "mobile_5c883ab7-6769-436e-a677-96b0f5a4c950.png", "instruction": "enter settings", "text": ["{\n  \"bounding_box\": [666, 112, 687, 112]\n}"]}
+{"filename": "mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png", "instruction": "add new event on calendar", "text": ["{\n  \"bounding_box\": [633, 1318, 677, 1362]\n}"]}
+{"filename": "mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png", "instruction": "open documents", "text": ["After analyzing the screenshot, I can see that the UI element matching the instruction \"open documents\" is the \"Docs\" option at the bottom of the screen.\n\n{\n  \"bounding_box\": [411, 1764, 437, 1831]\n}"]}
+{"filename": "mobile_c346d616-ffcb-4638-a049-2fc45d665e91.png", "instruction": "switch to monday schedule", "text": ["Looking at the screenshot, I need to identify the element that allows switching to Monday schedule. The Monday column is represented by \"Mon\" and the date \"25\" in the calendar view.\n\n{\n  \"bounding_box\": [341, 273, 365, 352]\n}"]}
+{"filename": "mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [585, 102, 605, 137]\n}"]}
+{"filename": "mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png", "instruction": "add new contact", "text": ["{\n  \"bounding_box\": [664, 114, 684, 135]\n}"]}
+{"filename": "mobile_d7f5d515-e2c4-453e-9b5b-d97e3ecd5307.png", "instruction": "display external contacts", "text": ["{\n  \"bounding_box\": [30, 522, 676, 561]\n}"]}
+{"filename": "mobile_275415f1-ade1-4210-9e92-8f998a671c96.png", "instruction": "create a new folder", "text": ["{\n  \"bounding_box\": [516, 691, 531, 706]\n}"]}
+{"filename": "mobile_275415f1-ade1-4210-9e92-8f998a671c96.png", "instruction": "display recent opened files", "text": ["{\n  \"bounding_box\": [46, 207, 220, 214]\n}"]}
+{"filename": "mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png", "instruction": "stop", "text": ["Looking at the screenshot, I can see this is a stopwatch interface. Based on the instruction to find \"stop\", I need to locate the stop button.\n\nThe stop button appears to be the blue square icon at the bottom left of the screen.\n\n{\n  \"bounding_box\": [220, 1390, 236, 1406]\n}"]}
+{"filename": "mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png", "instruction": "start", "text": ["Looking at the screenshot, I can see a stopwatch screen with a \"start\" button that appears as a play button (triangle icon) in the bottom right portion of the screen.\n\n{\n  \"bounding_box\": [485, 1383, 535, 1433]\n}"]}
+{"filename": "mobile_1c87bbf1-afc8-4fe3-aaf0-d3bacc52a2bf.png", "instruction": "settings", "text": ["After analyzing the screenshot, I can see the settings icon represented by a vertical three-dot menu in the top-right corner of the screen.\n\n{\n  \"bounding_box\": [640, 100, 680, 140]\n}"]}
+{"filename": "mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png", "instruction": "open clock at 3", "text": ["{\n  \"bounding_box\": [50, 698, 202, 737]\n}"]}
+{"filename": "mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png", "instruction": "close clock at 6", "text": ["{\n  \"bounding_box\": [50, 1129, 652, 1233]\n}"]}
+{"filename": "mobile_4fafbd92-0af2-4b02-9cf8-952227fd9993.png", "instruction": "show details of 7:30 clock", "text": ["{\n  \"bounding_box\": [50, 380, 643, 520]\n}"]}
+{"filename": "mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png", "instruction": "set timer for created task", "text": ["{\n  \"bounding_box\": [107, 842, 319, 862]\n}"]}
+{"filename": "mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png", "instruction": "done", "text": ["{\n  \"bounding_box\": [590, 822, 640, 864]\n}"]}
+{"filename": "mobile_2b80c9bf-0040-492e-8dca-d81cc9042b5a.png", "instruction": "fold input method", "text": ["{\n  \"bounding_box\": [634, 1041, 648, 1041]\n}"]}
+{"filename": "mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png", "instruction": "create new task", "text": ["{\n  \"bounding_box\": [589, 1405, 639, 1456]\n}"]}
+{"filename": "mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png", "instruction": "open settings", "text": ["{\n  \"bounding_box\": [640, 101, 658, 129]\n}"]}
+{"filename": "mobile_caaf7ec0-c1ee-4edc-8b42-37bfa11c4dd3.png", "instruction": "open notes", "text": ["{\n  \"bounding_box\": [48, 182, 227, 266]\n}"]}
+{"filename": "mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png", "instruction": "set font size to small", "text": ["{\n  \"bounding_box\": [338, 882, 430, 925]\n}"]}
+{"filename": "mobile_2a2da2de-b63c-46e0-88cf-f88ef8aec6e0.png", "instruction": "use huge font size", "text": ["{\n  \"bounding_box\": [339, 1217, 430, 1244]\n}"]}
+{"filename": "mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png", "instruction": "display calendar in week view", "text": ["{\n  \"bounding_box\": [230, 171, 330, 251]\n}"]}
+{"filename": "mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png", "instruction": "display calendar by days", "text": ["{\n  \"bounding_box\": [440, 186, 466, 249]\n}"]}
+{"filename": "mobile_165687dd-c6c2-4f44-a84d-3e9a2af95ffe.png", "instruction": "options", "text": ["{\n  \"bounding_box\": [658, 98, 686, 125]\n}"]}
+{"filename": "mobile_414acb14-025e-462a-9d1c-6410df04db7f.png", "instruction": "display 15-day weather forecast", "text": ["{\n  \"bounding_box\": [218, 1457, 490, 1505]\n}"]}
+{"filename": "mobile_414acb14-025e-462a-9d1c-6410df04db7f.png", "instruction": "open options", "text": ["{\n  \"bounding_box\": [639, 102, 663, 126]\n}"]}
+{"filename": "mobile_414acb14-025e-462a-9d1c-6410df04db7f.png", "instruction": "add new city", "text": ["{\n  \"bounding_box\": [55, 109, 75, 129]\n}"]}
+{"filename": "mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png", "instruction": "turn on airplane mode", "text": ["{\n  \"bounding_box\": [607, 339, 653, 354]\n}"]}
+{"filename": "mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png", "instruction": "turn off nfc", "text": ["{\n  \"bounding_box\": [605, 749, 655, 799]\n}"]}
+{"filename": "mobile_db81809e-7672-4329-8453-f622d97fa7ca.png", "instruction": "view siri & dictation history", "text": ["{\n  \"bounding_box\": [60, 1129, 656, 1147]\n}"]}
+{"filename": "mobile_e3249127-d727-4553-9a2a-db645f430d9b.png", "instruction": "battery health & charging", "text": ["{\n  \"bounding_box\": [60, 587, 617, 587]\n}"]}
+{"filename": "mobile_e3249127-d727-4553-9a2a-db645f430d9b.png", "instruction": "last 10 days data", "text": ["{\n  \"bounding_box\": [444, 740, 666, 755]\n}"]}
+{"filename": "mobile_e3249127-d727-4553-9a2a-db645f430d9b.png", "instruction": "open low power mode", "text": ["{\n  \"bounding_box\": [60, 357, 301, 375]\n}"]}
+{"filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png", "instruction": "add an event", "text": ["{\n  \"bounding_box\": [672, 123, 691, 142]\n}"]}
+{"filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png", "instruction": "back to 2023", "text": ["{\n  \"bounding_box\": [30, 128, 128, 150]\n}"]}
+{"filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [572, 124, 593, 144]\n}"]}
+{"filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png", "instruction": "check inbox", "text": ["{\n  \"bounding_box\": [653, 1462, 697, 1488]\n}"]}
+{"filename": "mobile_f1247381-fcf6-440f-8787-19bce69e28de.png", "instruction": "28", "text": ["{\n  \"bounding_box\": [458, 838, 480, 866]\n}"]}
+{"filename": "mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png", "instruction": "cancel the event", "text": ["{\n  \"bounding_box\": [30, 141, 127, 176]\n}"]}
+{"filename": "mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png", "instruction": "adjust start date", "text": ["{\n  \"bounding_box\": [410, 579, 529, 616]\n}"]}
+{"filename": "mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png", "instruction": "adjust end time", "text": ["{\n  \"bounding_box\": [600, 678, 664, 698]\n}"]}
+{"filename": "mobile_e9d69310-692c-4a78-8b8d-b961a5cfec70.png", "instruction": "set the repeat mode", "text": ["{\n  \"bounding_box\": [60, 905, 665, 905]\n}"]}
+{"filename": "mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png", "instruction": "start a timer", "text": ["{\n  \"bounding_box\": [585, 736, 691, 875]\n}"]}
+{"filename": "mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png", "instruction": "view when timer ends", "text": ["{\n  \"bounding_box\": [30, 949, 695, 1039]\n}"]}
+{"filename": "mobile_1f9b6434-df6c-4c95-b325-4f7a4d90d304.png", "instruction": "view alarm", "text": ["{\n  \"bounding_box\": [246, 1433, 318, 1505]\n}"]}
+{"filename": "mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png", "instruction": "check my account", "text": ["{\n  \"bounding_box\": [0, 266, 726, 400]\n}"]}
+{"filename": "mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png", "instruction": "add funds to apple id", "text": ["{\n  \"bounding_box\": [37, 725, 353, 745]\n}"]}
+{"filename": "mobile_e0fb2f66-6e2c-42d6-8cfd-34e510f1ab2e.png", "instruction": "view notifications", "text": ["{\n  \"bounding_box\": [37, 826, 677, 863]\n}"]}
+{"filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png", "instruction": "my account", "text": ["{\n  \"bounding_box\": [654, 191, 682, 244]\n}"]}
+{"filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png", "instruction": "search bar", "text": ["{\n  \"bounding_box\": [37, 274, 688, 331]\n}"]}
+{"filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png", "instruction": "cancel the ads", "text": ["{\n  \"bounding_box\": [656, 417, 673, 434]\n}"]}
+{"filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png", "instruction": "try it free", "text": ["{\n  \"bounding_box\": [159, 962, 567, 1018]\n}"]}
+{"filename": "mobile_0affae67-191e-43fa-890d-778555ffbab0.png", "instruction": "view library", "text": ["{\n  \"bounding_box\": [452, 1442, 486, 1790]\n}"]}
+{"filename": "mobile_5fb77d07-dd26-4a0c-959b-7c74fd49d22f.png", "instruction": "cancel subscription", "text": ["{\n  \"bounding_box\": [251, 1177, 487, 1194]\n}"]}
+{"filename": "mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png", "instruction": "view bach station", "text": ["{\n  \"bounding_box\": [37, 246, 352, 640]\n}"]}
+{"filename": "mobile_207efb5f-dce5-4c70-8c06-b16f2267c09e.png", "instruction": "listen now", "text": ["{\n  \"bounding_box\": [37, 1790, 142, 1803]\n}"]}
+{"filename": "mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png", "instruction": "add a new one", "text": ["{\n  \"bounding_box\": [30, 1049, 315, 1286]\n}"]}
+{"filename": "mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png", "instruction": "more details", "text": ["After analyzing the screenshot, I can see two \"Learn More\" elements that could match the \"more details\" instruction. Looking at the context, I'll identify the one in the second card about \"Home Upgrade Available\" as it appears to provide more details about a feature.\n\n{\n  \"bounding_box\": [165, 921, 325, 939]\n}"]}
+{"filename": "mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png", "instruction": "start recordings", "text": ["{\n  \"bounding_box\": [352, 1424, 400, 1472]\n}"]}
+{"filename": "mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png", "instruction": "open gmail", "text": ["Looking at the screenshot, I can see the Google icon in the left sidebar. This is the element that would be used to open Gmail.\n\n{\n  \"bounding_box\": [63, 350, 82, 369]\n}"]}
+{"filename": "mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png", "instruction": "add new email account", "text": ["{\n  \"bounding_box\": [63, 462, 82, 482]\n}"]}
+{"filename": "mobile_cebc7e07-8ab3-4232-acdd-aa2884af2e66.png", "instruction": "options", "text": ["{\n  \"bounding_box\": [532, 235, 547, 250]\n}"]}
+{"filename": "mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png", "instruction": "options", "text": ["{\n  \"bounding_box\": [629, 142, 648, 161]\n}"]}
+{"filename": "mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png", "instruction": "check week summary", "text": ["{\n  \"bounding_box\": [47, 918, 631, 968]\n}"]}
+{"filename": "mobile_569a4f5a-01f0-4386-89ba-768e1f88d38e.png", "instruction": "display wearing device", "text": ["{\n  \"bounding_box\": [442, 1759, 480, 1822]\n}"]}
+{"filename": "mobile_a1c4c142-4b8e-4db8-a74f-f84f047cbf46.png", "instruction": "persuit 9.9 as telephone fee", "text": ["{\n  \"bounding_box\": [117, 482, 257, 537]\n}"]}
+{"filename": "mobile_a1c4c142-4b8e-4db8-a74f-f84f047cbf46.png", "instruction": "pay 99 rmb for telephone bill", "text": ["{\n  \"bounding_box\": [430, 684, 630, 748]\n}"]}
+{"filename": "mobile_a1c4c142-4b8e-4db8-a74f-f84f047cbf46.png", "instruction": "back to upper page", "text": ["{\n  \"bounding_box\": [23, 82, 67, 126]\n}"]}
+{"filename": "mobile_8d60dcfe-4771-4a34-9053-9195df7264c9.png", "instruction": "log out", "text": ["{\n  \"bounding_box\": [451, 110, 549, 140]\n}"]}
+{"filename": "mobile_8d60dcfe-4771-4a34-9053-9195df7264c9.png", "instruction": "data add ons", "text": ["{\n  \"bounding_box\": [276, 291, 431, 323]\n}"]}
+{"filename": "mobile_8d60dcfe-4771-4a34-9053-9195df7264c9.png", "instruction": "display phone billings", "text": ["{\n  \"bounding_box\": [89, 946, 225, 969]\n}"]}
+{"filename": "mobile_c9fe8f06-aa80-4f6a-abe2-5886567fdea3.png", "instruction": "random music", "text": ["After analyzing the screenshot, I can see there's a shuffle button that would give you random music. This is located in the upper right portion of the player controls.\n\n{\n  \"bounding_box\": [563, 361, 582, 380]\n}"]}
+{"filename": "mobile_c9fe8f06-aa80-4f6a-abe2-5886567fdea3.png", "instruction": "sequential music playback", "text": ["{\n  \"bounding_box\": [638, 361, 657, 361]\n}"]}
+{"filename": "mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png", "instruction": "open account profile", "text": ["{\n  \"bounding_box\": [50, 221, 650, 328]\n}"]}
+{"filename": "mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png", "instruction": "scan qr code", "text": ["After analyzing the screenshot, I don't see a UI element specifically for \"scan QR code\" in this Xiaomi Account settings page. The screenshot shows account information, cloud storage status, family sharing options, account security settings, and other account management options, but no QR code scanning functionality is visible in this particular view.\n\n{\n  \"bounding_box\": [0, 0, 0, 0]\n}"]}
+{"filename": "mobile_0dcb6532-d25e-4bb0-8746-ccdbec623bce.png", "instruction": "sign out", "text": ["{\n  \"bounding_box\": [280, 1412, 425, 1462]\n}"]}
+{"filename": "mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png", "instruction": "search for a place or address", "text": ["{\n  \"bounding_box\": [89, 1027, 666, 1061]\n}"]}
+{"filename": "mobile_105a4c27-8695-4555-9121-0dd7cacb5ec2.png", "instruction": "continue", "text": ["{\n  \"bounding_box\": [45, 1310, 680, 1402]\n}"]}
+{"filename": "mobile_2e804aba-afb6-48a0-ad55-2f242652eb33.png", "instruction": "close the notification box", "text": ["{\n  \"bounding_box\": [642, 1306, 658, 1322]\n}"]}
+{"filename": "mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png", "instruction": "choose watercolor brush style", "text": ["{\n  \"bounding_box\": [355, 1402, 401, 1466]\n}"]}
+{"filename": "mobile_d97a442a-6912-4a26-9387-fe5dee9b3d0a.png", "instruction": "adjust the color", "text": ["{\n  \"bounding_box\": [589, 1423, 615, 1449]\n}"]}
+{"filename": "mobile_7e2e6586-4c35-414e-8608-863b7ceba272.png", "instruction": "insert from link", "text": ["{\n  \"bounding_box\": [275, 1137, 678, 1176]\n}"]}
+{"filename": "mobile_d3865883-8214-4bff-9834-13987580abe8.png", "instruction": "add a circle", "text": ["Based on the screenshot, I can see that the user is looking to \"add a circle\". Looking at the shapes available in the interface, there's a circle shape in the top-right of the shape gallery.\n\n{\n  \"bounding_box\": [574, 669, 634, 729]\n}"]}
+{"filename": "mobile_8c25fc62-ca0e-4280-ae68-9146b66089b2.png", "instruction": "learn more about privacy", "text": ["{\n  \"bounding_box\": [362, 1112, 408, 1132]\n}"]}
+{"filename": "mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png", "instruction": "input through voice recognition", "text": ["{\n  \"bounding_box\": [654, 306, 668, 320]\n}"]}
+{"filename": "mobile_6cc4e2c1-b5bd-4347-bee4-63a1217d052c.png", "instruction": "check coverage", "text": ["{\n  \"bounding_box\": [30, 1191, 696, 1303]\n}"]}
+{"filename": "mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png", "instruction": "close the recommended box", "text": ["{\n  \"bounding_box\": [655, 349, 668, 362]\n}"]}
+{"filename": "mobile_4e55ce53-bc82-44c3-a81a-8282f55ec4c9.png", "instruction": "check the information about airtag", "text": ["{\n  \"bounding_box\": [296, 1218, 456, 1365]\n}"]}
+{"filename": "mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png", "instruction": "show the location list", "text": ["{\n  \"bounding_box\": [330, 1333, 510, 1359]\n}"]}
+{"filename": "mobile_f6f4bdd0-01eb-41a4-b696-42fcc45097b6.png", "instruction": "choose the place called \"香港广场\"", "text": ["I can see the map with several Apple Store locations. Looking for the place called \"香港广场\" (Hong Kong Plaza), I can identify it in the right side of the map labeled as \"Apple 香港广场\".\n\n{\n  \"bounding_box\": [618, 611, 691, 634]\n}"]}
+{"filename": "mobile_73a629d6-0fe4-4663-a727-d3b78ec52175.png", "instruction": "search destinations", "text": ["{\n  \"bounding_box\": [30, 214, 697, 312]\n}"]}
+{"filename": "mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png", "instruction": "add waypoints", "text": ["{\n  \"bounding_box\": [628, 203, 695, 254]\n}"]}
+{"filename": "mobile_c81bb812-68b7-4557-95bb-1260f3b787f1.png", "instruction": "input the destination", "text": ["{\n  \"bounding_box\": [119, 262, 621, 284]\n}"]}
+{"filename": "mobile_c9c47c96-1b18-45dd-8e88-f0b48c54617d.png", "instruction": "check the wallet", "text": ["{\n  \"bounding_box\": [263, 319, 462, 466]\n}"]}
+{"filename": "mobile_12280689-e3e1-4a36-ba3c-709acb969b32.png", "instruction": "continue with apple", "text": ["{\n  \"bounding_box\": [44, 1092, 681, 1171]\n}"]}
+{"filename": "mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png", "instruction": "open massage", "text": ["{\n  \"bounding_box\": [103, 856, 166, 919]\n}"]}
+{"filename": "mobile_88c8a639-8051-4241-943c-41104b363caa.png", "instruction": "start outdoor running", "text": ["{\n  \"bounding_box\": [54, 277, 344, 434]\n}"]}
+{"filename": "mobile_88c8a639-8051-4241-943c-41104b363caa.png", "instruction": "record outdoor cycle", "text": ["{\n  \"bounding_box\": [54, 530, 341, 684]\n}"]}
+{"filename": "mobile_88c8a639-8051-4241-943c-41104b363caa.png", "instruction": "start threadmill recordding", "text": ["{\n  \"bounding_box\": [610, 563, 627, 565]\n}"]}
+{"filename": "mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png", "instruction": "show week steps recordings", "text": ["{\n  \"bounding_box\": [352, 230, 369, 251]\n}"]}
+{"filename": "mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png", "instruction": "show steps recording by month", "text": ["{\n  \"bounding_box\": [550, 230, 565, 251]\n}"]}
+{"filename": "mobile_df5320bc-03e4-4e4e-bcc2-67cfd9b344ec.png", "instruction": "return to upper page", "text": ["{\n  \"bounding_box\": [47, 95, 82, 130]\n}"]}
+{"filename": "mobile_043c3a5e-c12c-4991-bb7f-676c617b2f9b.png", "instruction": "open the entertainment", "text": ["{\n  \"bounding_box\": [679, 185, 851, 385]\n}"]}
+{"filename": "mobile_3d3cacff-2019-4577-9395-21b45a0c548b.png", "instruction": "remove maps from the desktop", "text": ["{\n  \"bounding_box\": [565, 458, 600, 531]\n}"]}
+{"filename": "mobile_6778b255-174f-401e-ab98-b5bbe554a141.png", "instruction": "add a new app to the desktop", "text": ["Looking at the screenshot, I can see that the element that matches the instruction \"add a new app to the desktop\" is the \"+\" button located in the top left corner of the screen.\n\n{\n  \"bounding_box\": [51, 32, 85, 32]\n}"]}
+{"filename": "mobile_6778b255-174f-401e-ab98-b5bbe554a141.png", "instruction": "remove chrome from the desktop", "text": ["Looking at the screenshot, I can see the Chrome icon in the middle row of apps. Since the instruction is to \"remove chrome from the desktop\", I'll identify the bounding box for the Chrome app icon.\n\n{\n  \"bounding_box\": [566, 507, 594, 577]\n}"]}
+{"filename": "mobile_674f6746-05c0-4e7d-93de-adf054f0eaf6.png", "instruction": "more settings", "text": ["{\n  \"bounding_box\": [665, 742, 671, 748]\n}"]}
+{"filename": "mobile_674f6746-05c0-4e7d-93de-adf054f0eaf6.png", "instruction": "play music", "text": ["{\n  \"bounding_box\": [352, 1472, 372, 1798]\n}"]}
+{"filename": "mobile_b7323848-f2e7-492c-95aa-e33e731ff196.png", "instruction": "scan qr code", "text": ["{\n  \"bounding_box\": [546, 106, 564, 124]\n}"]}
+{"filename": "mobile_b7323848-f2e7-492c-95aa-e33e731ff196.png", "instruction": "open night mode", "text": ["{\n  \"bounding_box\": [60, 374, 197, 395]\n}"]}
+{"filename": "mobile_b7323848-f2e7-492c-95aa-e33e731ff196.png", "instruction": "stop timer", "text": ["{\n  \"bounding_box\": [59, 444, 274, 488]\n}"]}
+{"filename": "mobile_35351ad5-e887-4f0c-8e11-b0ae43776394.png", "instruction": "options", "text": ["{\n  \"bounding_box\": [633, 110, 653, 130]\n}"]}
+{"filename": "mobile_35351ad5-e887-4f0c-8e11-b0ae43776394.png", "instruction": "log in ", "text": ["{\n  \"bounding_box\": [233, 236, 269, 254]\n}"]}
+{"filename": "mobile_35351ad5-e887-4f0c-8e11-b0ae43776394.png", "instruction": "registe", "text": ["{\n  \"bounding_box\": [365, 204, 583, 267]\n}"]}
+{"filename": "mobile_5beaa36a-b6a1-44ee-9684-0d0b8afd0c0b.png", "instruction": "exchange target and source city", "text": ["{\n  \"bounding_box\": [352, 373, 374, 395]\n}"]}
+{"filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png", "instruction": "check the weather", "text": ["Looking at the screenshot, I can see the weather widget is visible in the top portion. The widget shows weather information for Shanghai with current temperature and forecast.\n\n{\n  \"bounding_box\": [126, 51, 459, 371]\n}"]}
+{"filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png", "instruction": "view world clock", "text": ["Looking at the screenshot, I can see that the world clock is displayed in the middle-top portion of the screen, showing clocks for Beijing, Tokyo, Houston, and Paris.\n\n{\n  \"bounding_box\": [498, 64, 825, 185]\n}"]}
+{"filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png", "instruction": "open facetime app", "text": ["Looking at the screenshot, I can see the FaceTime app icon in the dock area of the iPad. It's the second icon from the left in the top row of app icons at the bottom portion of the screen.\n\n{\n  \"bounding_box\": [383, 469, 417, 532]\n}"]}
+{"filename": "mobile_1ca5b944-293a-46a1-af95-eb35bc8a0b2a.png", "instruction": "open the camera", "text": ["After analyzing the screenshot, I can see the Camera app icon in the top right section of the dock area. Here are the bounding box coordinates:\n\n```json\n{\n  \"bounding_box\": [1114, 477, 1164, 531]\n}\n```"]}
+{"filename": "mobile_6949b916-64c8-431f-8842-a29a9a557641.png", "instruction": "menu", "text": ["{\n  \"bounding_box\": [45, 46, 59, 65]\n}"]}
+{"filename": "mobile_6949b916-64c8-431f-8842-a29a9a557641.png", "instruction": "select source language", "text": ["{\n  \"bounding_box\": [339, 74, 601, 99]\n}"]}
+{"filename": "mobile_6949b916-64c8-431f-8842-a29a9a557641.png", "instruction": "close the translation", "text": ["{\n  \"bounding_box\": [992, 155, 1001, 164]\n}"]}
+{"filename": "mobile_702eab66-81f1-4aac-a252-37b5f7c3ae68.png", "instruction": "translate", "text": ["{\n  \"bounding_box\": [45, 53, 59, 64]\n}"]}
+{"filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png", "instruction": "add a new file", "text": ["{\n  \"bounding_box\": [36, 225, 48, 237]\n}"]}
+{"filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png", "instruction": "search bar", "text": ["{\n  \"bounding_box\": [480, 43, 928, 83]\n}"]}
+{"filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png", "instruction": "settings", "text": ["{\n  \"bounding_box\": [36, 860, 48, 872]\n}"]}
+{"filename": "mobile_a1366f87-f1f1-402c-911a-d239eb60eac8.png", "instruction": "check shared files", "text": ["{\n  \"bounding_box\": [209, 172, 233, 182]\n}"]}
+{"filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png", "instruction": "add an event", "text": ["{\n  \"bounding_box\": [211, 57, 221, 57]\n}"]}
+{"filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png", "instruction": "search event", "text": ["{\n  \"bounding_box\": [1083, 57, 1143, 68]\n}"]}
+{"filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png", "instruction": "view as year", "text": ["{\n  \"bounding_box\": [784, 56, 800, 66]\n}"]}
+{"filename": "mobile_c71efbd9-cd10-4564-949e-50b3b034328a.png", "instruction": "the fifth", "text": ["{\n  \"bounding_box\": [546, 372, 554, 383]\n}"]}
+{"filename": "mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png", "instruction": "handwrite mode", "text": ["{\n  \"bounding_box\": [1153, 54, 1184, 54]\n}"]}
+{"filename": "mobile_0570bb62-77b0-4d1d-90f4-5e322c2bca17.png", "instruction": "take a photo", "text": ["{\n  \"bounding_box\": [757, 48, 772, 63]\n}"]}
+{"filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png", "instruction": "open result file", "text": ["{\n  \"bounding_box\": [454, 185, 532, 321]\n}"]}
+{"filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png", "instruction": "icloud drive", "text": ["{\n  \"bounding_box\": [69, 325, 172, 336]\n}"]}
+{"filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png", "instruction": "downloads", "text": ["{\n  \"bounding_box\": [69, 584, 163, 595]\n}"]}
+{"filename": "mobile_4b1df148-c6ac-452a-b55d-f8e6c6dee059.png", "instruction": "add a new file", "text": ["{\n  \"bounding_box\": [843, 54, 853, 55]\n}"]}
+{"filename": "mobile_a8181231-d30c-4051-9ff2-16808694adbf.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [122, 53, 132, 63]\n}"]}
+{"filename": "mobile_a8181231-d30c-4051-9ff2-16808694adbf.png", "instruction": "add a new page", "text": ["{\n  \"bounding_box\": [1193, 52, 1206, 66]\n}"]}
+{"filename": "mobile_a8181231-d30c-4051-9ff2-16808694adbf.png", "instruction": "more information", "text": ["After analyzing the screenshot, I can't find any UI element with the text \"more information\" or that clearly serves that purpose. The screenshot shows a note-taking or document editing app with various toolbar options, but no visible \"more information\" button or link.\n\nHowever, the menu button (three dots) in the top-right corner might potentially lead to more information:\n\n{\n  \"bounding_box\": [1291, 53, 1305, 54]\n}"]}
+{"filename": "mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png", "instruction": "search bar", "text": ["{\n  \"bounding_box\": [482, 51, 926, 74]\n}"]}
+{"filename": "mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png", "instruction": "check the pinned files", "text": ["{\n  \"bounding_box\": [379, 135, 403, 183]\n}"]}
+{"filename": "mobile_5313a7b6-4c3a-442f-a5d3-6d53fc8d3ad9.png", "instruction": "sign in", "text": ["{\n  \"bounding_box\": [1271, 841, 1299, 851]\n}"]}
+{"filename": "mobile_d3771dd7-e526-4b87-8971-247ca5582e85.png", "instruction": "stop sharing my location", "text": ["{\n  \"bounding_box\": [334, 380, 362, 390]\n}"]}
+{"filename": "mobile_f5b4ae93-55f8-4f0c-9c9e-dda8685c37b5.png", "instruction": "create a new workbook for total a list", "text": ["After analyzing the screenshot, I can see a template called \"Total a List\" that best matches the instruction to \"create a new workbook for total a list\".\n\n{\n  \"bounding_box\": [735, 110, 958, 320]\n}"]}
+{"filename": "mobile_63cdee53-9026-46c9-9b69-639452091dcc.png", "instruction": "add storage account", "text": ["{\n  \"bounding_box\": [132, 327, 313, 338]\n}"]}
+{"filename": "mobile_63cdee53-9026-46c9-9b69-639452091dcc.png", "instruction": "go to user account page", "text": ["{\n  \"bounding_box\": [35, 68, 56, 89]\n}"]}
+{"filename": "mobile_e3f2b3d7-4c56-44ba-af3f-ae885a3e0dbb.png", "instruction": "disable icloud photos", "text": ["{\n  \"bounding_box\": [1214, 327, 1243, 339]\n}"]}
+{"filename": "mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png", "instruction": "remove the camera from the included controls", "text": ["Looking at the screenshot, I can see that the instruction is to \"remove the camera from the included controls\". The camera control is listed under the \"INCLUDED CONTROLS\" section, and there is a red minus button next to it that would allow removing it.\n\n{\n  \"bounding_box\": [549, 551, 599, 601]\n}"]}
+{"filename": "mobile_08782c89-65da-43ca-8eb6-8ca71e9f8ea7.png", "instruction": "add alarm to the included controls", "text": ["Looking at the screenshot, I can see that the instruction is to \"add alarm to the included controls\". The alarm control is located in the \"MORE CONTROLS\" section with a plus button next to it.\n\n{\n  \"bounding_box\": [549, 858, 671, 858]\n}"]}
+{"filename": "mobile_c784c6c1-0203-4193-8131-f34cef16d400.png", "instruction": "adjust display & brightness", "text": ["{\n  \"bounding_box\": [60, 485, 694, 587]\n}"]}
+{"filename": "mobile_1152be83-7090-45b9-9465-e5acc02d867d.png", "instruction": "switch to dark theme", "text": ["{\n  \"bounding_box\": [491, 310, 547, 580]\n}"]}
+{"filename": "mobile_1152be83-7090-45b9-9465-e5acc02d867d.png", "instruction": "adjust the brightness", "text": ["{\n  \"bounding_box\": [59, 1130, 648, 1157]\n}"]}
+{"filename": "mobile_d8a299f2-f432-4bef-abc4-5a005cf4c40f.png", "instruction": "manage the password for aliyunidaas.com", "text": ["{\n  \"bounding_box\": [30, 723, 696, 792]\n}"]}
+{"filename": "mobile_45d2f820-fe5f-4e31-9554-34156e66179c.png", "instruction": "modify the notification permission for google maps", "text": ["{\n  \"bounding_box\": [30, 935, 697, 994]\n}"]}
+{"filename": "mobile_f45826c5-d796-46cf-b0c3-c4095206735c.png", "instruction": "allow google maps to send notifications", "text": ["{\n  \"bounding_box\": [571, 255, 676, 306]\n}"]}
+{"filename": "mobile_a2719c16-da39-48ea-8c1c-1239414f0778.png", "instruction": "disallow automatic app updates", "text": ["{\n  \"bounding_box\": [617, 1024, 665, 1072]\n}"]}
+{"filename": "mobile_63adf499-326a-44b4-8b3f-0ecd1935745e.png", "instruction": "check health details", "text": ["{\n  \"bounding_box\": [60, 602, 662, 602]\n}"]}
+{"filename": "mobile_18b2ff57-9a0c-48e6-a754-de728b5a0479.png", "instruction": "add a new place to favourities", "text": ["{\n  \"bounding_box\": [89, 1232, 156, 1336]\n}"]}
+{"filename": "mobile_8a1fada9-3afa-4eb7-8cef-8896bb2ab30e.png", "instruction": "apple store", "text": ["{\n  \"bounding_box\": [142, 952, 307, 969]\n}"]}
+{"filename": "mobile_8a1fada9-3afa-4eb7-8cef-8896bb2ab30e.png", "instruction": "check feishu", "text": ["{\n  \"bounding_box\": [60, 1417, 658, 1474]\n}"]}
+{"filename": "mobile_b550b4ed-79ce-446a-a1c3-a164b314bfe8.png", "instruction": "view my account", "text": ["{\n  \"bounding_box\": [654, 184, 684, 241]\n}"]}
+{"filename": "mobile_b550b4ed-79ce-446a-a1c3-a164b314bfe8.png", "instruction": "check out jony j's album", "text": ["{\n  \"bounding_box\": [37, 434, 687, 862]\n}"]}
+{"filename": "mobile_6e041214-1095-476a-8779-04db83de5781.png", "instruction": "add a new song to the album", "text": ["{\n  \"bounding_box\": [585, 127, 601, 143]\n}"]}
+{"filename": "mobile_6e041214-1095-476a-8779-04db83de5781.png", "instruction": "play this album", "text": ["{\n  \"bounding_box\": [190, 873, 239, 889]\n}"]}
+{"filename": "mobile_f6313b8a-4258-47d1-97af-7868e04979a4.png", "instruction": "pause the music", "text": ["{\n  \"bounding_box\": [334, 1174, 389, 1240]\n}"]}
+{"filename": "mobile_f6313b8a-4258-47d1-97af-7868e04979a4.png", "instruction": "next song", "text": ["{\n  \"bounding_box\": [560, 1188, 598, 1226]\n}"]}
+{"filename": "mobile_f6313b8a-4258-47d1-97af-7868e04979a4.png", "instruction": "previous one", "text": ["After analyzing the screenshot, I can see that the \"previous one\" button appears as a skip backward/previous track button in the music player controls at the bottom of the screen.\n\n{\n  \"bounding_box\": [162, 1195, 202, 1222]\n}"]}
+{"filename": "mobile_ec01cb13-de9a-4a4b-9a79-5f810b034474.png", "instruction": "use airplay", "text": ["After analyzing the screenshot, I can see the AirPlay icon is located at the bottom of the screen.\n\n{\n  \"bounding_box\": [361, 1451, 380, 1470]\n}"]}
+{"filename": "mobile_ec01cb13-de9a-4a4b-9a79-5f810b034474.png", "instruction": "check the play list", "text": ["{\n  \"bounding_box\": [552, 1445, 570, 1465]\n}"]}
+{"filename": "mobile_e550d5f2-308d-4027-ad04-8c2ba9e8d2d1.png", "instruction": "play the opening the channel (mixed)", "text": ["{\n  \"bounding_box\": [60, 658, 590, 700]\n}"]}
+{"filename": "mobile_88d4e5a0-ca4e-4dc7-9b43-1932dc5aa896.png", "instruction": "add this song to library", "text": ["{\n  \"bounding_box\": [276, 128, 475, 147]\n}"]}
+{"filename": "mobile_88d4e5a0-ca4e-4dc7-9b43-1932dc5aa896.png", "instruction": "share song with someone", "text": ["{\n  \"bounding_box\": [275, 483, 461, 506]\n}"]}
+{"filename": "mobile_88d4e5a0-ca4e-4dc7-9b43-1932dc5aa896.png", "instruction": "add this song to favorite", "text": ["{\n  \"bounding_box\": [657, 986, 676, 1010]\n}"]}
+{"filename": "mobile_c9fe8f06-aa80-4f6a-abe2-5886567fdea3.png", "instruction": "switch to song lyric", "text": ["{\n  \"bounding_box\": [171, 1449, 191, 1469]\n}"]}
+{"filename": "mobile_b4e274d0-a7b6-4cad-97ee-5581ef41c6a0.png", "instruction": "join a twitch server", "text": ["{\n  \"bounding_box\": [30, 1443, 680, 1808]\n}"]}
+{"filename": "mobile_b4e274d0-a7b6-4cad-97ee-5581ef41c6a0.png", "instruction": "use shool group template", "text": ["{\n  \"bounding_box\": [21, 785, 685, 909]\n}"]}
+{"filename": "mobile_508e7610-9e30-4626-9ea3-37bf194cb1dd.png", "instruction": "enter email address", "text": ["{\n  \"bounding_box\": [29, 863, 678, 936]\n}"]}
+{"filename": "mobile_508e7610-9e30-4626-9ea3-37bf194cb1dd.png", "instruction": "display more information", "text": ["{\n  \"bounding_box\": [317, 741, 467, 759]\n}"]}
+{"filename": "mobile_508e7610-9e30-4626-9ea3-37bf194cb1dd.png", "instruction": "close", "text": ["{\n  \"bounding_box\": [69, 105, 85, 122]\n}"]}
+{"filename": "mobile_5c444b03-c5ca-41d8-b4cb-e12f4f4a4387.png", "instruction": "open settings", "text": ["{\n  \"bounding_box\": [519, 259, 650, 375]\n}"]}
+{"filename": "mobile_5c444b03-c5ca-41d8-b4cb-e12f4f4a4387.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [139, 363, 178, 376]\n}"]}
+{"filename": "mobile_5c444b03-c5ca-41d8-b4cb-e12f4f4a4387.png", "instruction": "mute channel", "text": ["{\n  \"bounding_box\": [420, 246, 453, 383]\n}"]}
+{"filename": "mobile_f0b711c8-ab3c-4af5-b43b-452a718637ae.png", "instruction": "add status", "text": ["{\n  \"bounding_box\": [59, 558, 343, 617]\n}"]}
+{"filename": "mobile_f0b711c8-ab3c-4af5-b43b-452a718637ae.png", "instruction": "settings", "text": ["{\n  \"bounding_box\": [646, 86, 664, 111]\n}"]}
+{"filename": "mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png", "instruction": "set focus time to 60 mins", "text": ["{\n  \"bounding_box\": [276, 1122, 344, 1249]\n}"]}
+{"filename": "mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png", "instruction": "turn on focus mode", "text": ["{\n  \"bounding_box\": [54, 1399, 653, 1474]\n}"]}
+{"filename": "mobile_8d5dea76-69b8-4076-82ef-38b2fb8a1b30.png", "instruction": "customize focus time", "text": ["{\n  \"bounding_box\": [598, 1151, 662, 1242]\n}"]}
+{"filename": "mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png", "instruction": "check tuesday data details", "text": ["{\n  \"bounding_box\": [153, 842, 171, 855]\n}"]}
+{"filename": "mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png", "instruction": "display data by week", "text": ["{\n  \"bounding_box\": [505, 313, 661, 339]\n}"]}
+{"filename": "mobile_b012267b-fcd6-4d0c-991a-f2a4afd0a2ff.png", "instruction": "switch to focus mode", "text": ["{\n  \"bounding_box\": [349, 183, 657, 242]\n}"]}
+{"filename": "mobile_99daacb4-408c-4cdf-8f14-2c01675fda1f.png", "instruction": "set dark mode follow system", "text": ["{\n  \"bounding_box\": [631, 1158, 664, 1161]\n}"]}
+{"filename": "mobile_99daacb4-408c-4cdf-8f14-2c01675fda1f.png", "instruction": "return to upper page", "text": ["{\n  \"bounding_box\": [32, 99, 70, 137]\n}"]}
+{"filename": "mobile_597cf265-2586-43ab-8048-99e06141f39f.png", "instruction": "flod this content", "text": ["{\n  \"bounding_box\": [222, 112, 354, 133]\n}"]}
+{"filename": "mobile_597cf265-2586-43ab-8048-99e06141f39f.png", "instruction": "share", "text": ["{\n  \"bounding_box\": [634, 1205, 650, 1221]\n}"]}
+{"filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png", "instruction": "check the new ios 17.2.1", "text": ["{\n  \"bounding_box\": [30, 565, 696, 637]\n}"]}
+{"filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png", "instruction": "check wlan settings", "text": ["{\n  \"bounding_box\": [60, 808, 656, 864]\n}"]}
+{"filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png", "instruction": "check bluetooth", "text": ["{\n  \"bounding_box\": [30, 872, 696, 946]\n}"]}
+{"filename": "mobile_3925834b-893d-4cdf-b9cf-a602466175f3.png", "instruction": "vpn settings", "text": ["{\n  \"bounding_box\": [30, 1135, 662, 1174]\n}"]}
+{"filename": "mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png", "instruction": "view icloud", "text": ["{\n  \"bounding_box\": [60, 917, 662, 958]\n}"]}
+{"filename": "mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png", "instruction": "back to settings", "text": ["{\n  \"bounding_box\": [28, 127, 171, 146]\n}"]}
+{"filename": "mobile_9b66c296-5f43-4312-b933-4dfabf00247c.png", "instruction": "view password & security details", "text": ["{\n  \"bounding_box\": [60, 626, 351, 647]\n}"]}
+{"filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png", "instruction": "open the wlan", "text": ["{\n  \"bounding_box\": [571, 273, 666, 304]\n}"]}
+{"filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png", "instruction": "edit", "text": ["{\n  \"bounding_box\": [667, 127, 694, 148]\n}"]}
+{"filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png", "instruction": "choose the pjlab-guest", "text": ["{\n  \"bounding_box\": [104, 658, 294, 677]\n}"]}
+{"filename": "mobile_5c9fb5f1-7d84-4283-8ba4-7821a9545c95.png", "instruction": "view detail information about pjlab-office", "text": ["{\n  \"bounding_box\": [643, 353, 665, 375]\n}"]}
+{"filename": "mobile_70580ad8-f119-4db6-813b-81f950e0569e.png", "instruction": "choose the stack mode", "text": ["{\n  \"bounding_box\": [331, 326, 423, 527]\n}"]}
+{"filename": "mobile_70580ad8-f119-4db6-813b-81f950e0569e.png", "instruction": "check scheduled summary", "text": ["{\n  \"bounding_box\": [59, 686, 654, 727]\n}"]}
+{"filename": "mobile_70580ad8-f119-4db6-813b-81f950e0569e.png", "instruction": "announce notifications", "text": ["After analyzing the screenshot, I can see the \"Announce Notifications\" element in the SIRI section of the notifications settings page.\n\n{\n  \"bounding_box\": [60, 1053, 389, 1073]\n}"]}
+{"filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png", "instruction": "check airdrop setting", "text": ["{\n  \"bounding_box\": [30, 467, 690, 543]\n}"]}
+{"filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png", "instruction": "carplay", "text": ["{\n  \"bounding_box\": [60, 749, 168, 768]\n}"]}
+{"filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png", "instruction": "view iphone storage", "text": ["{\n  \"bounding_box\": [60, 976, 275, 995]\n}"]}
+{"filename": "mobile_8e7e6de4-2eac-400c-b845-291fa80c5c7c.png", "instruction": "keyboard settings", "text": ["{\n  \"bounding_box\": [60, 1286, 195, 1310]\n}"]}
+{"filename": "mobile_db81809e-7672-4329-8453-f622d97fa7ca.png", "instruction": "open allow siri when locked", "text": ["{\n  \"bounding_box\": [60, 476, 389, 495]\n}"]}
+{"filename": "mobile_db81809e-7672-4329-8453-f622d97fa7ca.png", "instruction": "show suggestions", "text": ["{\n  \"bounding_box\": [60, 1783, 323, 1804]\n}"]}
+{"filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png", "instruction": "add title", "text": ["{\n  \"bounding_box\": [40, 255, 178, 278]\n}"]}
+{"filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png", "instruction": "add guests", "text": ["{\n  \"bounding_box\": [86, 387, 242, 421]\n}"]}
+{"filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png", "instruction": "set no repeats", "text": ["{\n  \"bounding_box\": [86, 797, 233, 831]\n}"]}
+{"filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png", "instruction": "add description", "text": ["{\n  \"bounding_box\": [86, 1363, 299, 1381]\n}"]}
+{"filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png", "instruction": "favorite the music", "text": ["{\n  \"bounding_box\": [529, 881, 561, 925]\n}"]}
+{"filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png", "instruction": "forwarding", "text": ["{\n  \"bounding_box\": [644, 1353, 688, 1387]\n}"]}
+{"filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png", "instruction": "view comments", "text": ["{\n  \"bounding_box\": [500, 1187, 544, 1222]\n}"]}
+{"filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png", "instruction": "play the music", "text": ["{\n  \"bounding_box\": [360, 1321, 418, 1379]\n}"]}
+{"filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png", "instruction": "next song", "text": ["{\n  \"bounding_box\": [513, 1356, 533, 1377]\n}"]}
+{"filename": "mobile_a14fb632-fab9-4537-8c7b-8c650fd91bd7.png", "instruction": "previous song", "text": ["After analyzing the screenshot, I can see that the \"previous song\" button is located at the bottom of the screen, represented by a backward skip icon.\n\n{\n  \"bounding_box\": [209, 1351, 239, 1380]\n}"]}
+{"filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png", "instruction": "more information", "text": ["{\n  \"bounding_box\": [564, 127, 584, 147]\n}"]}
+{"filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png", "instruction": "back to filters", "text": ["{\n  \"bounding_box\": [29, 127, 143, 142]\n}"]}
+{"filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png", "instruction": "write a message", "text": ["{\n  \"bounding_box\": [671, 127, 692, 149]\n}"]}
+{"filename": "mobile_9bd1779a-91ee-4a59-8904-3850434b1421.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [30, 274, 694, 332]\n}"]}
+{"filename": "mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png", "instruction": "display unread massages", "text": ["{\n  \"bounding_box\": [329, 212, 381, 232]\n}"]}
+{"filename": "mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png", "instruction": "display flagged massages", "text": ["{\n  \"bounding_box\": [497, 212, 544, 232]\n}"]}
+{"filename": "mobile_6a0ba48e-0ed8-44ba-a40b-adbbdba2dee4.png", "instruction": "search massages", "text": ["{\n  \"bounding_box\": [585, 114, 605, 134]\n}"]}
+{"filename": "mobile_6aa0e7dc-66cc-494b-aa49-71eed77fcafc.png", "instruction": "take a photo as input", "text": ["{\n  \"bounding_box\": [51, 1347, 229, 1369]\n}"]}
+{"filename": "mobile_29d7e4c5-5293-4828-a31a-0297dbeb5b9d.png", "instruction": "open a photo", "text": ["{\n  \"bounding_box\": [242, 671, 492, 921]\n}"]}
+{"filename": "mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png", "instruction": "crop the photo", "text": ["Based on the screenshot, I can see that the instruction is to identify the UI element for \"crop the photo\". Looking at the image editing interface, I can see the \"Crop\" option with its icon in the bottom section of the interface.\n\n{\n  \"bounding_box\": [74, 717, 126, 815]\n}"]}
+{"filename": "mobile_641346f3-50a8-4235-8a74-e0c9ee49136f.png", "instruction": "open a brush", "text": ["{\n  \"bounding_box\": [274, 903, 305, 962]\n}"]}
+{"filename": "mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png", "instruction": "view personal information", "text": ["{\n  \"bounding_box\": [637, 187, 697, 247]\n}"]}
+{"filename": "mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png", "instruction": "show more about workouts", "text": ["{\n  \"bounding_box\": [533, 875, 691, 913]\n}"]}
+{"filename": "mobile_6126718c-82ef-4406-8d00-3d4bf7a414c4.png", "instruction": "view the outdoor cycle report", "text": ["{\n  \"bounding_box\": [30, 941, 695, 1075]\n}"]}
+{"filename": "mobile_b4a1ee35-b1b3-4ea6-bd37-22e326ea8620.png", "instruction": "view exercise log on map", "text": ["{\n  \"bounding_box\": [30, 1005, 696, 1286]\n}"]}
+{"filename": "mobile_8632848c-d399-4879-bb2e-c06478785a16.png", "instruction": "close the splits", "text": ["{\n  \"bounding_box\": [673, 156, 686, 169]\n}"]}
+{"filename": "mobile_3475adcf-26f0-43b9-8758-cae8601d33d1.png", "instruction": "open exercise log calendar", "text": ["{\n  \"bounding_box\": [569, 127, 590, 148]\n}"]}
+{"filename": "mobile_35047157-7939-4491-ab8d-4d1da41acc74.png", "instruction": "set to repeat every monday", "text": ["{\n  \"bounding_box\": [60, 397, 260, 416]\n}"]}
+{"filename": "mobile_39d89f43-f1df-40b7-a0db-eef4bc2521d0.png", "instruction": "set an alarm for 7:40", "text": ["{\n  \"bounding_box\": [30, 594, 293, 649]\n}"]}
+{"filename": "mobile_268e1246-9870-47c7-a702-cadd117e11d4.png", "instruction": "sign up to zoom ", "text": ["{\n  \"bounding_box\": [22, 1242, 729, 1323]\n}"]}
+{"filename": "mobile_085c4ffc-e423-4798-a09f-702ded3d1987.png", "instruction": "open hide sensitive information when switching tasks", "text": ["{\n  \"bounding_box\": [58, 246, 499, 298]\n}"]}
+{"filename": "mobile_0b63fa69-df33-442d-b7ea-9393432f71ea.png", "instruction": "adjust accessibility settings", "text": ["{\n  \"bounding_box\": [30, 407, 720, 470]\n}"]}
+{"filename": "mobile_9f4d72cc-149d-4613-b19a-759ee34d8a47.png", "instruction": "close the tab with the apple official website", "text": ["{\n  \"bounding_box\": [318, 249, 333, 264]\n}"]}
+{"filename": "mobile_9f4d72cc-149d-4613-b19a-759ee34d8a47.png", "instruction": "serch tab", "text": ["{\n  \"bounding_box\": [32, 112, 693, 166]\n}"]}
+{"filename": "mobile_76682c29-846c-4673-be8b-ebfbe0e5c9a9.png", "instruction": "add a new empty tab group", "text": ["{\n  \"bounding_box\": [31, 1071, 694, 1138]\n}"]}
+{"filename": "mobile_d17dfa46-fc13-4f38-9261-3f9f7171067b.png", "instruction": "set default wallent", "text": ["{\n  \"bounding_box\": [50, 886, 645, 996]\n}"]}
+{"filename": "mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png", "instruction": "open auto-rotate screen", "text": ["{\n  \"bounding_box\": [50, 1084, 402, 1112]\n}"]}
+{"filename": "mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png", "instruction": "control center or status bar", "text": ["{\n  \"bounding_box\": [61, 1323, 563, 1348]\n}"]}
+{"filename": "mobile_6e08b93a-9271-40ac-9dd0-f1f95f8d8675.png", "instruction": "settting fonts", "text": ["{\n  \"bounding_box\": [50, 647, 654, 740]\n}"]}
+{"filename": "mobile_d52263df-908a-4f53-93de-b51d691ad995.png", "instruction": "use dark mode display", "text": ["{\n  \"bounding_box\": [518, 367, 671, 827]\n}"]}
+{"filename": "mobile_d52263df-908a-4f53-93de-b51d691ad995.png", "instruction": "change dark mode options", "text": ["{\n  \"bounding_box\": [50, 1033, 653, 1083]\n}"]}
+{"filename": "mobile_d52263df-908a-4f53-93de-b51d691ad995.png", "instruction": "return upper page", "text": ["{\n  \"bounding_box\": [50, 93, 98, 129]\n}"]}
+{"filename": "mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png", "instruction": "display options", "text": ["{\n  \"bounding_box\": [51, 814, 267, 883]\n}"]}
+{"filename": "mobile_3607031a-15bb-48cd-a2e6-84a7ce433173.png", "instruction": "open vpn options", "text": ["{\n  \"bounding_box\": [51, 195, 645, 239]\n}"]}
+{"filename": "mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png", "instruction": "set date and time", "text": ["{\n  \"bounding_box\": [50, 390, 648, 446]\n}"]}
+{"filename": "mobile_f61ea850-a79c-41b8-891f-8c55326e1530.png", "instruction": "quick control ball", "text": ["{\n  \"bounding_box\": [50, 1010, 644, 1067]\n}"]}
+{"filename": "mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png", "instruction": " battery options", "text": ["{\n  \"bounding_box\": [400, 181, 583, 242]\n}"]}
+{"filename": "mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png", "instruction": "change battery setting for better performance", "text": ["{\n  \"bounding_box\": [566, 652, 646, 670]\n}"]}
+{"filename": "mobile_04545977-3f36-4a33-a787-72ec8a9dd4f2.png", "instruction": "open ultra battery saver", "text": ["{\n  \"bounding_box\": [157, 741, 490, 785]\n}"]}
+{"filename": "mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png", "instruction": "clear", "text": ["{\n  \"bounding_box\": [114, 791, 134, 826]\n}"]}
+{"filename": "mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png", "instruction": "enter 5", "text": ["{\n  \"bounding_box\": [273, 1104, 346, 1139]\n}"]}
+{"filename": "mobile_3b5ab7d3-8e84-4be1-83ba-801882db294b.png", "instruction": "divide", "text": ["{\n  \"bounding_box\": [589, 793, 609, 793]\n}"]}
+{"filename": "mobile_4c2df330-55c0-4272-80c0-6e2cf8f96903.png", "instruction": "done", "text": ["After analyzing the screenshot, I can see the \"Done\" button at the bottom of the payment successful screen.\n\n{\n  \"bounding_box\": [189, 1290, 516, 1367]\n}"]}
+{"filename": "mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png", "instruction": "open instagram", "text": ["{\n  \"bounding_box\": [104, 614, 161, 721]\n}"]}
+{"filename": "mobile_9aa2c4bf-aa52-43ed-ac30-f22798c14668.png", "instruction": "open github app", "text": ["{\n  \"bounding_box\": [559, 404, 677, 515]\n}"]}
+{"filename": "mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png", "instruction": "learn more", "text": ["{\n  \"bounding_box\": [60, 600, 227, 637]\n}"]}
+{"filename": "mobile_efa861a6-0810-4c8a-9bca-4f481641d03d.png", "instruction": "add or scan accessory", "text": ["{\n  \"bounding_box\": [48, 1100, 316, 1289]\n}"]}
+{"filename": "mobile_7d7609e2-696b-449e-a230-792dce8dd134.png", "instruction": "open nlp folder", "text": ["{\n  \"bounding_box\": [284, 410, 443, 607]\n}"]}
+{"filename": "mobile_7d7609e2-696b-449e-a230-792dce8dd134.png", "instruction": "back to browse", "text": ["{\n  \"bounding_box\": [28, 128, 156, 147]\n}"]}
+{"filename": "mobile_7d7609e2-696b-449e-a230-792dce8dd134.png", "instruction": "view shared", "text": ["{\n  \"bounding_box\": [362, 1435, 393, 1466]\n}"]}
+{"filename": "mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png", "instruction": "login with wechat", "text": ["{\n  \"bounding_box\": [60, 752, 666, 823]\n}"]}
+{"filename": "mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png", "instruction": "settings", "text": ["{\n  \"bounding_box\": [66, 106, 89, 129]\n}"]}
+{"filename": "mobile_c1f1188d-1bd3-4ce6-8e3f-96628d07b0b9.png", "instruction": "login with email", "text": ["{\n  \"bounding_box\": [621, 961, 651, 1040]\n}"]}
+{"filename": "mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png", "instruction": "all clear the calculator", "text": ["Looking at the calculator interface, the \"AC\" button (All Clear) is located in the top-left position of the calculator keypad.\n\n{\n  \"bounding_box\": [104, 666, 147, 708]\n}"]}
+{"filename": "mobile_fbadc3d2-cde6-43f5-a33c-a648a9299963.png", "instruction": "plus", "text": ["{\n  \"bounding_box\": [618, 1184, 678, 1244]\n}"]}
+{"filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png", "instruction": "search bar", "text": ["{\n  \"bounding_box\": [224, 127, 635, 153]\n}"]}
+{"filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png", "instruction": "scan icon", "text": ["{\n  \"bounding_box\": [90, 200, 123, 234]\n}"]}
+{"filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png", "instruction": "open pay/collect", "text": ["{\n  \"bounding_box\": [201, 205, 341, 301]\n}"]}
+{"filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png", "instruction": "view the air & rail", "text": ["{\n  \"bounding_box\": [363, 664, 417, 717]\n}"]}
+{"filename": "mobile_3a1f306e-784a-411a-98cb-f11a2157a5c7.png", "instruction": "check messages", "text": ["{\n  \"bounding_box\": [506, 1433, 546, 1491]\n}"]}
+{"filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png", "instruction": "try it now", "text": ["{\n  \"bounding_box\": [594, 515, 657, 543]\n}"]}
+{"filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [671, 132, 701, 162]\n}"]}
+{"filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png", "instruction": "add a new one", "text": ["{\n  \"bounding_box\": [650, 1299, 696, 1345]\n}"]}
+{"filename": "mobile_d8a4069b-ec35-4a62-a3cd-5b5e7d95b50c.png", "instruction": "view docs", "text": ["{\n  \"bounding_box\": [302, 1471, 323, 1487]\n}"]}
+{"filename": "mobile_20aa1fbd-f09f-4923-9fb4-15998cda6fe3.png", "instruction": "save", "text": ["{\n  \"bounding_box\": [661, 142, 694, 173]\n}"]}
+{"filename": "mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png", "instruction": "search recodings", "text": ["{\n  \"bounding_box\": [91, 327, 659, 331]\n}"]}
+{"filename": "mobile_550b9efc-c475-4188-82b6-47f7ca1a56f7.png", "instruction": "open settings", "text": ["{\n  \"bounding_box\": [639, 101, 659, 129]\n}"]}
+{"filename": "mobile_41049254-5e60-485c-b974-174ad6e98bd0.png", "instruction": "edit the overlay of this page", "text": ["{\n  \"bounding_box\": [531, 235, 547, 251]\n}"]}
+{"filename": "mobile_41049254-5e60-485c-b974-174ad6e98bd0.png", "instruction": "return to homepage", "text": ["{\n  \"bounding_box\": [64, 123, 80, 139]\n}"]}
+{"filename": "mobile_41049254-5e60-485c-b974-174ad6e98bd0.png", "instruction": "add new email account", "text": ["{\n  \"bounding_box\": [62, 460, 83, 482]\n}"]}
+{"filename": "mobile_182c66dd-3836-4bce-909f-166abd570fde.png", "instruction": "turn off bluetooth", "text": ["{\n  \"bounding_box\": [51, 1087, 650, 1143]\n}"]}
+{"filename": "mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png", "instruction": "turn off wifi", "text": ["{\n  \"bounding_box\": [55, 295, 343, 451]\n}"]}
+{"filename": "mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png", "instruction": "change phone options", "text": ["{\n  \"bounding_box\": [626, 223, 644, 241]\n}"]}
+{"filename": "mobile_ee2362d3-17a7-479e-9f99-fd8378aae866.png", "instruction": "manage the outlayer", "text": ["{\n  \"bounding_box\": [591, 209, 644, 246]\n}"]}
+{"filename": "mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png", "instruction": "apply the smooth filter", "text": ["{\n  \"bounding_box\": [344, 1376, 387, 1391]\n}"]}
+{"filename": "mobile_a2cdff8e-fd92-46fb-8d83-228f2116c087.png", "instruction": "open additional options", "text": ["{\n  \"bounding_box\": [672, 80, 682, 106]\n}"]}
+{"filename": "mobile_bed2b5e8-9102-405e-80f3-85207ed1bbf0.png", "instruction": "display more functions", "text": ["{\n  \"bounding_box\": [352, 1182, 389, 1198]\n}"]}
+{"filename": "mobile_bed2b5e8-9102-405e-80f3-85207ed1bbf0.png", "instruction": "open high resolution 50mp mode", "text": ["{\n  \"bounding_box\": [92, 270, 336, 501]\n}"]}
+{"filename": "mobile_bed2b5e8-9102-405e-80f3-85207ed1bbf0.png", "instruction": "take short video", "text": ["{\n  \"bounding_box\": [371, 268, 612, 503]\n}"]}
+{"filename": "mobile_97ca06a1-8d37-4ece-b7ed-79517c61da2f.png", "instruction": "back to upper page", "text": ["{\n  \"bounding_box\": [43, 91, 93, 141]\n}"]}
+{"filename": "mobile_97ca06a1-8d37-4ece-b7ed-79517c61da2f.png", "instruction": "display more detials", "text": ["{\n  \"bounding_box\": [377, 386, 384, 386]\n}"]}
+{"filename": "mobile_f6431461-6800-4054-a29d-d74b01514198.png", "instruction": "safety informations", "text": ["{\n  \"bounding_box\": [540, 106, 576, 119]\n}"]}
+{"filename": "mobile_f6431461-6800-4054-a29d-d74b01514198.png", "instruction": "settings", "text": ["{\n  \"bounding_box\": [541, 105, 589, 117]\n}"]}
+{"filename": "mobile_f6431461-6800-4054-a29d-d74b01514198.png", "instruction": "back to upper page", "text": ["{\n  \"bounding_box\": [63, 102, 95, 134]\n}"]}
+{"filename": "mobile_b099c8b7-0ff4-404b-a1a2-10691a313a8b.png", "instruction": "open dynamic shot", "text": ["{\n  \"bounding_box\": [549, 1322, 580, 1353]\n}"]}
+{"filename": "mobile_b099c8b7-0ff4-404b-a1a2-10691a313a8b.png", "instruction": "options", "text": ["{\n  \"bounding_box\": [652, 123, 667, 124]\n}"]}
+{"filename": "mobile_b099c8b7-0ff4-404b-a1a2-10691a313a8b.png", "instruction": "open hdr shoting mode", "text": ["{\n  \"bounding_box\": [202, 123, 232, 123]\n}"]}
+{"filename": "mobile_8ed6041f-f845-4495-8ca6-def7f40471fd.png", "instruction": "back", "text": ["{\n  \"bounding_box\": [29, 82, 78, 130]\n}"]}
+{"filename": "mobile_8ed6041f-f845-4495-8ca6-def7f40471fd.png", "instruction": "start a private meeting", "text": ["{\n  \"bounding_box\": [29, 391, 677, 570]\n}"]}
+{"filename": "mobile_8ed6041f-f845-4495-8ca6-def7f40471fd.png", "instruction": "next step", "text": ["{\n  \"bounding_box\": [29, 1400, 677, 1478]\n}"]}
+{"filename": "mobile_597cf265-2586-43ab-8048-99e06141f39f.png", "instruction": "more options", "text": ["{\n  \"bounding_box\": [644, 350, 656, 350]\n}"]}
+{"filename": "mobile_7618dc0d-3998-4dd2-82db-86df2cc97da3.png", "instruction": "filte unread feeds", "text": ["{\n  \"bounding_box\": [114, 371, 286, 389]\n}"]}
+{"filename": "mobile_7618dc0d-3998-4dd2-82db-86df2cc97da3.png", "instruction": "filte group weibo", "text": ["{\n  \"bounding_box\": [114, 631, 277, 648]\n}"]}
+{"filename": "mobile_7618dc0d-3998-4dd2-82db-86df2cc97da3.png", "instruction": "new post", "text": ["{\n  \"bounding_box\": [625, 1372, 680, 1424]\n}"]}
+{"filename": "mobile_c3af996a-2d6c-47c2-ba3d-aae699016f0e.png", "instruction": "close sounds", "text": ["{\n  \"bounding_box\": [28, 1005, 138, 1027]\n}"]}
+{"filename": "mobile_c3af996a-2d6c-47c2-ba3d-aae699016f0e.png", "instruction": "back", "text": ["{\n  \"bounding_box\": [28, 103, 70, 133]\n}"]}
+{"filename": "mobile_bce7a892-9cb2-432a-b678-2429d4f51d3d.png", "instruction": "install app", "text": ["{\n  \"bounding_box\": [613, 413, 656, 436]\n}"]}
+{"filename": "mobile_bce7a892-9cb2-432a-b678-2429d4f51d3d.png", "instruction": "show all downloading apps", "text": ["{\n  \"bounding_box\": [58, 296, 204, 316]\n}"]}
+{"filename": "mobile_bce7a892-9cb2-432a-b678-2429d4f51d3d.png", "instruction": "show softwares", "text": ["{\n  \"bounding_box\": [473, 213, 539, 233]\n}"]}
+{"filename": "mobile_daf338f0-ebfc-488e-9a55-f8cc03394148.png", "instruction": "view details", "text": ["{\n  \"bounding_box\": [614, 1097, 649, 1117]\n}"]}
+{"filename": "mobile_daf338f0-ebfc-488e-9a55-f8cc03394148.png", "instruction": "update application", "text": ["{\n  \"bounding_box\": [352, 1797, 546, 1822]\n}"]}
+{"filename": "mobile_daf338f0-ebfc-488e-9a55-f8cc03394148.png", "instruction": "view all folding apps", "text": ["{\n  \"bounding_box\": [353, 705, 419, 724]\n}"]}
+{"filename": "mobile_31f8a5c2-e28a-488c-bb28-a31c823c9c83.png", "instruction": "download", "text": ["{\n  \"bounding_box\": [645, 98, 659, 113]\n}"]}
+{"filename": "mobile_31f8a5c2-e28a-488c-bb28-a31c823c9c83.png", "instruction": "messages", "text": ["{\n  \"bounding_box\": [486, 1457, 528, 1499]\n}"]}
+{"filename": "mobile_31f8a5c2-e28a-488c-bb28-a31c823c9c83.png", "instruction": "open cleaner", "text": ["{\n  \"bounding_box\": [359, 325, 496, 352]\n}"]}
+{"filename": "mobile_6ad7dd8f-82d3-4e73-b437-667dc1b24574.png", "instruction": "add new device", "text": ["{\n  \"bounding_box\": [661, 111, 689, 140]\n}"]}
+{"filename": "mobile_f0b711c8-ab3c-4af5-b43b-452a718637ae.png", "instruction": "add a avater", "text": ["{\n  \"bounding_box\": [59, 740, 242, 756]\n}"]}
+{"filename": "mobile_b84d7f20-7c25-4613-829f-6c620e223593.png", "instruction": "close", "text": ["{\n  \"bounding_box\": [666, 205, 681, 220]\n}"]}
+{"filename": "mobile_b84d7f20-7c25-4613-829f-6c620e223593.png", "instruction": "show news", "text": ["{\n  \"bounding_box\": [189, 99, 234, 136]\n}"]}
+{"filename": "mobile_b84d7f20-7c25-4613-829f-6c620e223593.png", "instruction": "use fire emoji", "text": ["{\n  \"bounding_box\": [141, 856, 186, 873]\n}"]}
+{"filename": "mobile_6bfcd1af-894e-4c63-b1c1-c5fabf589029.png", "instruction": "view travel apps", "text": ["Looking at the screenshot, I can see that there's a section labeled \"Travel\" that contains travel-related apps. According to the instruction \"view travel apps\", I need to find the bounding box for this section.\n\n{\n  \"bounding_box\": [529, 1309, 644, 1330]\n}"]}
+{"filename": "mobile_16545bc1-c614-4dc3-a81c-3d349a93e07d.png", "instruction": "setting up airpods connection", "text": ["Looking at the screenshot, the Bluetooth button would be the most relevant UI element for \"setting up airpods connection\" since AirPods connect via Bluetooth.\n\n{\n  \"bounding_box\": [267, 433, 321, 487]\n}"]}
+{"filename": "mobile_16545bc1-c614-4dc3-a81c-3d349a93e07d.png", "instruction": "qr code", "text": ["Looking at the screenshot, I can see the QR code icon in the bottom-left area of the control center. It appears to be a UI element with a QR code scanner icon.\n\n{\n  \"bounding_box\": [123, 1107, 156, 1140]\n}"]}
+{"filename": "mobile_86bad4a5-d11b-4f2d-b367-5180a49ca4b5.png", "instruction": "view country music", "text": ["{\n  \"bounding_box\": [37, 526, 230, 554]\n}"]}
+{"filename": "mobile_86bad4a5-d11b-4f2d-b367-5180a49ca4b5.png", "instruction": "check out the yeedm album", "text": ["{\n  \"bounding_box\": [529, 732, 688, 939]\n}"]}
+{"filename": "mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png", "instruction": "open calculator", "text": ["{\n  \"bounding_box\": [437, 741, 497, 817]\n}"]}
+{"filename": "mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png", "instruction": "open settings", "text": ["{\n  \"bounding_box\": [554, 890, 668, 1023]\n}"]}
+{"filename": "mobile_f53240ec-a09f-4857-9ca1-db5fb79455c3.png", "instruction": "open notes", "text": ["{\n  \"bounding_box\": [602, 1120, 662, 1180]\n}"]}
+{"filename": "mobile_b9537ded-e771-43c7-bab4-1db747625d87.png", "instruction": "add a new item", "text": ["{\n  \"bounding_box\": [380, 432, 588, 579]\n}"]}
+{"filename": "mobile_b9537ded-e771-43c7-bab4-1db747625d87.png", "instruction": "automation", "text": ["Based on the screenshot, I can see that the \"Automation\" element is in the left sidebar navigation menu. Here are the bounding box coordinates for this element:\n\n{\n  \"bounding_box\": [29, 213, 166, 214]\n}"]}
+{"filename": "mobile_49f35b0d-59ea-46f9-b215-0e0e70d06a9a.png", "instruction": "add a room", "text": ["{\n  \"bounding_box\": [989, 154, 1254, 154]\n}"]}
+{"filename": "mobile_ed417132-c4e4-41c9-adae-d150aecada69.png", "instruction": "open files in ipad", "text": ["{\n  \"bounding_box\": [80, 840, 111, 871]\n}"]}
+{"filename": "mobile_acb1d28f-ddf9-4098-b749-51bf6600705b.png", "instruction": "switch the map style to satellite", "text": ["{\n  \"bounding_box\": [536, 1280, 696, 1375]\n}"]}
+{"filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png", "instruction": "locked rotation", "text": ["{\n  \"bounding_box\": [976, 282, 1010, 315]\n}"]}
+{"filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png", "instruction": "open do not disturb", "text": ["{\n  \"bounding_box\": [1018, 367, 1097, 395]\n}"]}
+{"filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png", "instruction": "adjust the voice", "text": ["{\n  \"bounding_box\": [1145, 367, 1182, 394]\n}"]}
+{"filename": "mobile_1c1d54b4-5ac1-40cd-9dc6-21a8d3c97d6e.png", "instruction": "timer", "text": ["Looking at the screenshot, I can see a control center with various icons, including one that appears to be a timer icon in the middle-right section of the screen.\n\n{\n  \"bounding_box\": [1059, 620, 1086, 648]\n}"]}
+{"filename": "mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png", "instruction": "open system apps settings", "text": ["{\n  \"bounding_box\": [50, 348, 645, 350]\n}"]}
+{"filename": "mobile_faa33d8c-ff72-4c74-98df-cb46cc0516aa.png", "instruction": "manage home screen shortcuts", "text": ["{\n  \"bounding_box\": [50, 568, 452, 647]\n}"]}
+{"filename": "mobile_5beaa36a-b6a1-44ee-9684-0d0b8afd0c0b.png", "instruction": "search", "text": ["{\n  \"bounding_box\": [56, 719, 651, 798]\n}"]}
+{"filename": "mobile_5beaa36a-b6a1-44ee-9684-0d0b8afd0c0b.png", "instruction": "show high-speed track only", "text": ["{\n  \"bounding_box\": [70, 663, 385, 676]\n}"]}
+{"filename": "mobile_791a59b0-e0dd-452f-b3c3-94238f7636f0.png", "instruction": "start speed test", "text": ["{\n  \"bounding_box\": [298, 586, 430, 685]\n}"]}
+{"filename": "mobile_791a59b0-e0dd-452f-b3c3-94238f7636f0.png", "instruction": "display more options", "text": ["{\n  \"bounding_box\": [676, 76, 694, 102]\n}"]}
+{"filename": "mobile_791a59b0-e0dd-452f-b3c3-94238f7636f0.png", "instruction": "display map", "text": ["{\n  \"bounding_box\": [475, 1467, 526, 1828]\n}"]}
+{"filename": "mobile_4e17db8b-85df-4278-ba0a-9f03e5ca85da.png", "instruction": "open the dark appearance dims wallpaper", "text": ["{\n  \"bounding_box\": [1205, 556, 1241, 556]\n}"]}
+{"filename": "mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png", "instruction": "open only draw with apple pencil", "text": ["{\n  \"bounding_box\": [1214, 622, 1244, 622]\n}"]}
+{"filename": "mobile_6ded1777-d4c3-485f-b28a-7754e0e9c024.png", "instruction": "switch to show link attributes", "text": ["{\n  \"bounding_box\": [536, 469, 701, 480]\n}"]}
+{"filename": "mobile_f859f69e-20c1-4630-9435-e959c43590d5.png", "instruction": "add a new tab", "text": ["{\n  \"bounding_box\": [298, 48, 309, 59]\n}"]}
+{"filename": "mobile_f859f69e-20c1-4630-9435-e959c43590d5.png", "instruction": "refresh the page", "text": ["{\n  \"bounding_box\": [157, 99, 172, 114]\n}"]}
+{"filename": "mobile_f859f69e-20c1-4630-9435-e959c43590d5.png", "instruction": "go to user account page", "text": ["{\n  \"bounding_box\": [1280, 168, 1294, 182]\n}"]}
+{"filename": "mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png", "instruction": "clear browsing data", "text": ["{\n  \"bounding_box\": [998, 620, 1084, 631]\n}"]}
+{"filename": "mobile_41aa1b5c-01f3-455d-807e-9c90c705dd1f.png", "instruction": "open downloads page", "text": ["{\n  \"bounding_box\": [1148, 198, 1182, 248]\n}"]}
+{"filename": "mobile_95b2eec8-7804-474f-bf47-7c13a7a02595.png", "instruction": "new private window", "text": ["Looking at the screenshot, I can see this is a mobile browser interface. After analyzing the image, I can see there's a \"+\" button at the bottom right which likely handles new windows/tabs, but there isn't any UI element specifically labeled \"new private window\" visible in the current screen.\n\n{\n  \"bounding_box\": [1263, 809, 1295, 851]\n}"]}
+{"filename": "mobile_740f217d-27e9-43af-951c-b76e18252300.png", "instruction": "search history", "text": ["{\n  \"bounding_box\": [75, 165, 222, 176]\n}"]}
+{"filename": "mobile_663faca5-79a3-48f6-b64c-9f7989292d17.png", "instruction": "explore the new menu", "text": ["{\n  \"bounding_box\": [371, 367, 939, 432]\n}"]}
+{"filename": "mobile_9d30c621-fe06-4f6a-86e7-6664cc3bb566.png", "instruction": "check device location", "text": ["{\n  \"bounding_box\": [115, 745, 309, 758]\n}"]}
+{"filename": "mobile_5a0b24f9-66fe-4593-bcf5-4752d5332bcf.png", "instruction": "switching between 4g and 5g", "text": ["{\n  \"bounding_box\": [60, 339, 667, 376]\n}"]}
+{"filename": "mobile_5a0b24f9-66fe-4593-bcf5-4752d5332bcf.png", "instruction": "open data roaming", "text": ["{\n  \"bounding_box\": [60, 275, 258, 294]\n}"]}
+{"filename": "mobile_5a0b24f9-66fe-4593-bcf5-4752d5332bcf.png", "instruction": "back to cellular", "text": ["{\n  \"bounding_box\": [30, 127, 161, 146]\n}"]}
+{"filename": "mobile_9bbed1c6-3a9f-46ea-b2d3-39ae8abde54e.png", "instruction": "view last month cellular data", "text": ["{\n  \"bounding_box\": [523, 979, 684, 994]\n}"]}
+{"filename": "mobile_9bbed1c6-3a9f-46ea-b2d3-39ae8abde54e.png", "instruction": "select network", "text": ["{\n  \"bounding_box\": [60, 548, 318, 572]\n}"]}
+{"filename": "mobile_9bbed1c6-3a9f-46ea-b2d3-39ae8abde54e.png", "instruction": "check the cellular of wechat", "text": ["{\n  \"bounding_box\": [59, 1293, 647, 1358]\n}"]}
+{"filename": "mobile_59fde6e1-8df2-4009-ad8d-aa44bffd2bf2.png", "instruction": "canel password input", "text": ["{\n  \"bounding_box\": [645, 127, 723, 144]\n}"]}
+{"filename": "mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png", "instruction": "switch language", "text": ["{\n  \"bounding_box\": [59, 772, 662, 810]\n}"]}
+{"filename": "mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png", "instruction": "open app automatic download", "text": ["{\n  \"bounding_box\": [60, 969, 282, 989]\n}"]}
+{"filename": "mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png", "instruction": "turn off the app automatic update", "text": ["{\n  \"bounding_box\": [617, 1121, 667, 1151]\n}"]}
+{"filename": "mobile_46f8e4b9-c563-43f2-a651-4b1e80ee9907.png", "instruction": "set notifications", "text": ["{\n  \"bounding_box\": [60, 452, 658, 528]\n}"]}
+{"filename": "mobile_c47a7b32-1c13-414c-af34-f8ec2c7a0731.png", "instruction": "open automatic download with cellular", "text": ["{\n  \"bounding_box\": [60, 334, 368, 354]\n}"]}
+{"filename": "mobile_c47a7b32-1c13-414c-af34-f8ec2c7a0731.png", "instruction": "back to settings", "text": ["{\n  \"bounding_box\": [29, 127, 171, 147]\n}"]}
+{"filename": "mobile_c47a7b32-1c13-414c-af34-f8ec2c7a0731.png", "instruction": "check personalized recommendations", "text": ["{\n  \"bounding_box\": [60, 1395, 513, 1415]\n}"]}
+{"filename": "mobile_8a1fada9-3afa-4eb7-8cef-8896bb2ab30e.png", "instruction": "books setting", "text": ["{\n  \"bounding_box\": [60, 394, 662, 436]\n}"]}
