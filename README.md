@@ -3,8 +3,6 @@
 ## Overview
 This repository contains experimental data comparing reasoning-enabled and base versions of Vision-Language Models (VLMs) for mobile GUI agents. We evaluate two commercial VLMs and their reasoning variants—Claude 3.7 Sonnet and Gemini 2.0 Flash—across three benchmarks: AndroidControl, ScreenSpot (static), and AndroidWorld (interactive).
 
-We include the AndroidControl and ScreenSpot data in this repository.
-
 For more details on the experimental settings and our findings, refer to our paper:
 🔗 [**Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study** ](https://arxiv.org/abs/2503.16788)
 
